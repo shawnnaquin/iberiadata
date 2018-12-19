@@ -3892,5 +3892,475 @@
 				]
 			}
 		]
-	}
+	},
+	"BLOOD PRESSURE CUFF W-A SINGLE": {
+		"name": "BLOOD PRESSURE CUFF W-A SINGLE",
+		"item-id": "W-AREUS12",
+		"category": "270",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "02/27/2012",
+								"price": "41.06"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"BLOOD SOLUTION SET (Y-TYPE)": {
+		"name": "BLOOD SOLUTION SET (Y-TYPE)",
+		"item-id": "BHL2C6750H",
+		"category": "270",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "10/22/2009",
+								"price": "12.67"
+							},
+							{
+								"name": "private",
+								"effective-date": "03/24/2011",
+								"price": "63.35"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"BLOOD TRANSFER DEVICE": {
+		"name": "BLOOD TRANSFER DEVICE",
+		"item-id": "B-D364880H",
+		"category": "270",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "11/02/2010",
+								"price": "1.56"
+							},
+							{
+								"name": "private",
+								"effective-date": "03/24/2011",
+								"price": "7.80"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"BLUE LINERS": {
+		"name": "BLUE LINERS",
+		"item-id": "NON023143",
+		"category": "270",
+		"items": []
+	},
+	"BLUE TUBING Z-P": {
+		"name": "BLUE TUBING Z-P",
+		"item-id": "510",
+		"category": "270",
+		"items": []
+	},
+	"BMP Basic Metabolic Panel": {
+		"name": "BMP Basic Metabolic Panel",
+		"item-id": "80048",
+		"category": "300",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "10/16/2009",
+								"price": "60.48"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"BMP Basic Metabolic Panel": {
+		"name": "BMP Basic Metabolic Panel",
+		"item-id": "80048",
+		"category": "300",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "10/16/2009",
+								"price": "60.48"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"BNP (Natriuretic Peptide)": {
+		"name": "BNP (Natriuretic Peptide)",
+		"item-id": "83880",
+		"category": "300",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "10/16/2009",
+								"price": "918.75"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"BOWL 4 3/4'": {
+		"name": "BOWL 4 3/4'",
+		"item-id": "84522",
+		"category": "270",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "03/07/2012",
+								"price": "180.99"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"BREAD KNIFE": {
+		"name": "BREAD KNIFE",
+		"item-id": "BOC94884",
+		"category": "270",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "02/09/2012",
+								"price": "15.81"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"BRIEF, SM": {
+		"name": "BRIEF, SM",
+		"item-id": "717",
+		"category": "270",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "07/02/2010",
+								"price": "0.00"
+							},
+							{
+								"name": "private",
+								"effective-date": "07/15/2010",
+								"price": "38.89"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"BRIEF, SM MSC": {
+		"name": "BRIEF, SM MSC",
+		"item-id": "94250A",
+		"category": "270",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "07/06/2010",
+								"price": "38.39"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"BRIEF,CLOTHLIKE,FITPLUS,LG,48-": {
+		"name": "BRIEF,CLOTHLIKE,FITPLUS,LG,48-",
+		"item-id": "2529",
+		"category": "270",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "06/11/2014",
+								"price": "40.82"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"BRIEF,CLOTHLIKE,FITPLUS,MD,32-": {
+		"name": "BRIEF,CLOTHLIKE,FITPLUS,MD,32-",
+		"item-id": ":2580",
+		"category": "270",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "07/27/2014",
+								"price": "33.77"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"BRIEF,CLOTHLIKE,FITPLUS,XLG,59": {
+		"name": "BRIEF,CLOTHLIKE,FITPLUS,XLG,59",
+		"item-id": "2530",
+		"category": "270",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "06/11/2014",
+								"price": "48.98"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"BRIEF,ULTRA-SOFT,CLTH LIKE LG,": {
+		"name": "BRIEF,ULTRA-SOFT,CLTH LIKE LG,",
+		"item-id": "ULTRAPLUSLG",
+		"category": "270",
+		"items": [
+			{
+				"type": "Blue Cross",
+				"subtypes": [
+					{
+						"name": "Blue Cross",
+						"payor-id": "3001",
+						"subitems": [
+							{
+								"name": "Blue Cross",
+								"effective-date": "01/01/2001",
+								"price": "1.83"
+							},
+							{
+								"name": "Blue Cross",
+								"effective-date": "10/01/2009",
+								"price": "1.83"
+							}
+						]
+					}
+				]
+			},
+			{
+				"type": "Medicaid",
+				"subtypes": [
+					{
+						"name": "Medicaid",
+						"payor-id": "3002",
+						"subitems": [
+							{
+								"name": "Medicaid",
+								"effective-date": "01/01/2001",
+								"price": "1.83"
+							},
+							{
+								"name": "Medicaid",
+								"effective-date": "10/01/2009",
+								"price": "1.83"
+							}
+						]
+					}
+				]
+			},
+			{
+				"type": "medicare",
+				"subtypes": [
+					{
+						"name": "Medicare A",
+						"payor-id": "3003",
+						"subitems": [
+							{
+								"name": "Medicare A",
+								"effective-date": "01/01/2001",
+								"price": "1.83"
+							},
+							{
+								"name": "Medicare A",
+								"effective-date": "10/01/2009",
+								"price": "1.83"
+							}
+						]
+					},
+					{
+						"name": "Medicare B",
+						"payor-id": "3004",
+						"subitems": [
+							{
+								"name": "Medicare B",
+								"effective-date": "01/01/2001",
+								"price": "1.83"
+							},
+							{
+								"name": "Medicare B",
+								"effective-date": "10/01/2009",
+								"price": "1.83"
+							}
+						]
+					}
+
+				]
+			},
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "Private",
+								"effective-date": "01/01/2001",
+								"price": "1.83"
+							},
+							{
+								"name": "Private",
+								"effective-date": "09/28/2009",
+								"price": "2.78"
+							},
+							{
+								"name": "Private",
+								"effective-date": "10/01/2009",
+								"price": "2.78"
+							},
+							{
+								"name": "Private",
+								"effective-date": "10/19/2009",
+								"price": "5.78"
+							},
+							{
+								"name": "Private",
+								"effective-date": "03/24/2011",
+								"price": "41.25"
+							}
+						]
+					}
+				]
+			},
+			{
+				"type": "Veterans",
+				"subtypes": [
+					{
+						"name": "Veterans",
+						"payor-id": "3006",
+						"subitems": [
+							{
+								"name": "Veterans",
+								"effective-date": "01/01/2001",
+								"price": "1.83"
+							},
+							{
+								"name": "Veterans",
+								"effective-date": "10/01/2009",
+								"price": "1.83"
+							}
+						]
+					}
+				]
+			}
+		]		
+	},
 }
