@@ -2831,6 +2831,481 @@
                 ]
             }
         ]
+    },
+    "BAG,LEG,TWIST VALVE,L/F,MED": {
+        "name": "BAG,LEG,TWIST VALVE,L/F,MED",
+        "item-id": "DYND12574",
+        "category": "270",
+        "items": [
+            {
+                "type": "Blue Cross",
+                "subtypes": [
+                    {
+                        "name": "Blue Cross",
+                        "payor-id": "3001",
+                        "subitems": [
+                            {
+                                "name": "Blue Cross",
+                                "effective-date": "01/01/2001",
+                                "price": "5.28"
+                            },
+                            {
+                                "name": "Blue Cross",
+                                "effective-date": "10/01/2009",
+                                "price": "5.28"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicaid",
+                "subtypes": [
+                    {
+                        "name": "Medicaid",
+                        "payor-id": "3002",
+                        "subitems": [
+                            {
+                                "name": "Medicaid",
+                                "effective-date": "01/01/2001",
+                                "price": "5.28"
+                            },
+                            {
+                                "name": "Medicare A",
+                                "effective-date": "10/01/2009",
+                                "price": "5.28"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicare",
+                "subtypes": [
+                    {
+                        "name": "Medicare A",
+                        "payor-id": "3003",
+                        "subitems": [
+                            {
+                                "name": "Medicare A",
+                                "effective-date": "01/01/2001",
+                                "price": "5.28"
+                            },
+                            {
+                                "name": "Medicare A",
+                                "effective-date": "10/01/2009",
+                                "price": "5.28"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Medicare B",
+                        "payor-id": "3004",
+                        "subitems": [
+                            {
+                                "name": "Medicare B",
+                                "effective-date": "01/01/2001",
+                                "price": "5.28"
+                            },
+                            {
+                                "name": "Medicare B",
+                                "effective-date": "10/01/2009",
+                                "price": "5.28"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "name": "Private",
+                                "effective-date": "01/01/2001",
+                                "price": "5.28"
+                            },
+                            {
+                                "name": "Private",
+                                "effective-date": "09/28/2009",
+                                "price": "2.90"
+                            },
+                            {
+                                "name": "Private",
+                                "effective-date": "10/01/2009",
+                                "price": "2.90"
+                            },
+                            {
+                                "name": "Private",
+                                "effective-date": "03/24/2011",
+                                "price": "6.60"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Veterans",
+                "subtypes": [
+                    {
+                        "name": "Veterans",
+                        "payor-id": "3006",
+                        "subitems": [
+                            {
+                                "name": "Veterans",
+                                "effective-date": "01/01/2001",
+                                "price": "5.28"
+                            },
+                            {
+                                "name": "Veterans",
+                                "effective-date": "10/01/2009",
+                                "price": "5.28"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "BAG,REPLACEMENT,YELLOW VINYL": {
+        "name": "BAG,REPLACEMENT,YELLOW VINYL",
+        "item-id": "RUB6183",
+        "category": "990",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "name": "private",
+                                "effective-date": "10/07/2010",
+                                "price": "84.82"
+                            },
+                            {
+                                "name": "private",
+                                "effective-date": "03/24/2011",
+                                "price": "8.85"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "BANDAGE, ADH 2 X 4": {
+        "name": "BANDAGE, ADH 2 X 4",
+        "item-id": "NON 25504Z",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "name": "private",
+                                "effective-date": "04/24/2011",
+                                "price": "5.85"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "BANDAGE, ADH 3/4\" X 3 (BAN-AID": {
+        "name": "BANDAGE, ADH 3/4\" X 3 (BAN-AID",
+        "item-id": "NON 25500Z",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "name": "private",
+                                "effective-date": "04/24/2011",
+                                "price": "2.88"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "BANDAGES": {
+        "name": "BANDAGES",
+        "item-id": "NON25600",
+        "category": "270"
+    },
+    "BARRIER WIPES": {
+        "name": "BARRIER WIPES",
+        "item-id": "MSC 1505 Z",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "name": "private",
+                                "effective-date": "02/09/2012",
+                                "price": "25.46"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "BASES F/DOME COVERS (MAUVE)": {
+        "name": "BASES F/DOME COVERS (MAUVE)",
+        "item-id": "10164",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "name": "private",
+                                "effective-date": "03/07/2012",
+                                "price": "131.99"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "BATH TOWELS": {
+        "name": "BATH TOWELS",
+        "item-id": "MDTBT3C50Z",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "name": "private",
+                                "effective-date": "02/09/2012",
+                                "price": "16.75"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "BATTERY F/PHILIPS FR-2 DEFIB": {
+        "name": "BATTERY F/PHILIPS FR-2 DEFIB",
+        "item-id": "B11486",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "name": "private",
+                                "effective-date": "11/29/2012",
+                                "price": "234.50"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "BATTERY 12 V 2.3 AH (DINAMAP)": {
+        "name": "BATTERY 12 V 2.3 AH (DINAMAP)",
+        "item-id": "B-00932",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "name": "private",
+                                "effective-date": "05/08/2012",
+                                "price": "27.00"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "BATTERY 3 V LIT": {
+        "name": "BATTERY 3 V LIT",
+        "item-id": "EVBECR2450BP",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "name": "private",
+                                "effective-date": "02/08/2012",
+                                "price": "10.88"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "BATTERY, WELCHALLYN BP": {
+        "name": "BATTERY, WELCHALLYN BP",
+        "item-id": "B11277",
+        "category": null,
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "name": "private",
+                                "effective-date": "12/10/2010",
+                                "price": "27.29"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "BATTERY-PHILIPS VS1(B-11321)": {
+        "name": "BATTERY-PHILIPS VS1(B-11321)",
+        "item-id": "B11321",
+        "category": null,
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "name": "private",
+                                "effective-date": "12/10/2010",
+                                "price": "59.20"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "BAXTER SECONDARY IV SET": {
+        "name": "BAXTER SECONDARY IV SET",
+        "item-id": "2C7451",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "name": "private",
+                                "effective-date": "10/14/2011",
+                                "price": "27.80"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "BAXTER SECONDARY IV SET BHL": {
+        "name": "BAXTER SECONDARY IV SET BHL",
+        "item-id": "2C7451",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "name": "private",
+                                "effective-date": "07/27/2012",
+                                "price": "155.41"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "BAXTER/PRIMARY IV SOLUITION SE BAXTER": {
+        "name": "BAXTER/PRIMARY IV SOLUITION SE BAXTER",
+        "item-id": "2C6541",
+        "category": "260",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "name": "private",
+                                "effective-date": "12/27/2010",
+                                "price": "5.36"
+                            },
+                            {
+                                "name": "private",
+                                "effective-date": "03/24/2011",
+                                "price": "26.80"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 
 }
