@@ -3306,6 +3306,217 @@
                 ]
             }
         ]
-    }
-
+    },
+    "BEDPAN FRACTURE MAUVE": {
+        "name": "BEDPAN FRACTURE MAUVE",
+        "item-id": "DYNC8522",
+        "category": "270",
+        "items": [
+            {
+                "type": "Blue Cross",
+                "subtypes": [
+                    {
+                        "name": "Blue Cross",
+                        "payor-id": "3001",
+                        "subitems": [
+                            {
+                                "name": "Blue Cross",
+                                "effective-date": "01/01/2001",
+                                "price": "3.28"
+                            },
+                            {
+                                "name": "Blue Cross",
+                                "effective-date": "10/01/2009",
+                                "price": "3.29"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicaid",
+                "subtypes": [
+                    {
+                        "name": "Medicaid",
+                        "payor-id": "3002",
+                        "subitems": [
+                            {
+                                "name": "Medicaid",
+                                "effective-date": "01/01/2001",
+                                "price": "3.28"
+                            },
+                            {
+                                "name": "Medicare A",
+                                "effective-date": "10/01/2009",
+                                "price": "3.29"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicare",
+                "subtypes": [
+                    {
+                        "name": "Medicare A",
+                        "payor-id": "3003",
+                        "subitems": [
+                            {
+                                "name": "Medicare A",
+                                "effective-date": "01/01/2001",
+                                "price": "3.28"
+                            },
+                            {
+                                "name": "Medicare A",
+                                "effective-date": "10/01/2009",
+                                "price": "3.29"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Medicare B",
+                        "payor-id": "3004",
+                        "subitems": [
+                            {
+                                "name": "Medicare B",
+                                "effective-date": "01/01/2001",
+                                "price": "3.28"
+                            },
+                            {
+                                "name": "Medicare B",
+                                "effective-date": "10/01/2009",
+                                "price": "3.29"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "name": "Private",
+                                "effective-date": "01/01/2001",
+                                "price": "3.28"
+                            },
+                            {
+                                "name": "Private",
+                                "effective-date": "09/28/2009",
+                                "price": "6.35"
+                            },
+                            {
+                                "name": "Private",
+                                "effective-date": "10/01/2009",
+                                "price": "6.35"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Veterans",
+                "subtypes": [
+                    {
+                        "name": "Veterans",
+                        "payor-id": "3006",
+                        "subitems": [
+                            {
+                                "name": "Veterans",
+                                "effective-date": "01/01/2001",
+                                "price": "3.28"
+                            },
+                            {
+                                "name": "Veterans",
+                                "effective-date": "10/01/2009",
+                                "price": "3.29"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "BEDPAN,PONTOON/STACK,GRAPHITE": {
+        "name": "BEDPAN,PONTOON/STACK,GRAPHITE",
+        "item-id": "2549",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "name": "private",
+                                "effective-date": "06/27/2014",
+                                "price": "2.25"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "BENEFIBER POWDER PKTS": {
+        "name": "BENEFIBER POWDER PKTS",
+        "item-id": "DOY282300",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "name": "private",
+                                "effective-date": "11/16/2009",
+                                "price": "1.03"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "BENEPROTEIN POWDER": {
+        "name": "BENEPROTEIN POWDER",
+        "item-id": "DOY284300",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "name": "private",
+                                "effective-date": "11/11/2009",
+                                "price": "22.00"
+                            },
+                            {
+                                "name": "private",
+                                "effective-date": "11/13/2009",
+                                "price": "1.16"
+                            },
+                            {
+                                "name": "private",
+                                "effective-date": "03/24/2011",
+                                "price": "1.95"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
 }
