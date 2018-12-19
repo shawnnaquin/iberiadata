@@ -4719,5 +4719,384 @@
 				]
 			}
 		]
-	}
+	},
+	"BRIEF-PULLUPS-MED": {
+		"name": "BRIEF-PULLUPS-MED",
+		"item-id": "MSC 33005",
+		"category": "270",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "10/05/2012",
+								"price": "42.02"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"BULB W/RELEASE VALVE F/SPHY": {
+		"name": "BULB W/RELEASE VALVE F/SPHY",
+		"item-id": "5663-97",
+		"category": null,
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "09/21/2011",
+								"price": "6.49"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"BULB, LARYNGOSCOPE SM": {
+		"name": "BULB, LARYNGOSCOPE SM",
+		"item-id": "MDS0423910",
+		"category": null,
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "12/28/2010",
+								"price": "46.91"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"BUN": {
+		"name": "BUN",
+		"item-id": "84545 [80101]",
+		"category": "300",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "10/16/2009",
+								"price": "290.00"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"BUNION": {
+		"name": "BUNION",
+		"item-id": "28296",
+		"category": null,
+		"items": []
+	},
+	"Bilateral Ven leg": {
+		"name": "Bilateral Ven leg",
+		"item-id": "93970",
+		"category": "400",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "10/01/2009",
+								"price": "1275.00"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"Blood Administration": {
+		"name": "Blood Administration",
+		"item-id": "BL13",
+		"category": "350",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "10/16/2009",
+								"price": "648.00"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"C Diff Titer": {
+		"name": "C Diff Titer",
+		"item-id": "87230",
+		"category": "300",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "10/16/2009",
+								"price": "600.00"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"C Diff Toxin": {
+		"name": "C Diff Toxin",
+		"item-id": "87324",
+		"category": "300",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "10/16/2009",
+								"price": "535.00"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"C-CLAMP,CATHETER,FOLEY": {
+		"name": "C-CLAMP,CATHETER,FOLEY",
+		"item-id": "2208",
+		"category": "270",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "07/24/2013",
+								"price": "62.63"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"C-PEPTIDE LEVEL": {
+		"name": "C-PEPTIDE LEVEL",
+		"item-id": "84681",
+		"category": "300",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "06/25/2014",
+								"price": "73.50"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"C-SPINE X-RAY": {
+		"name": "C-SPINE X-RAY",
+		"item-id": "72052",
+		"category": "400",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "05/13/2014",
+								"price": "325.00"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"C-reactive Protein Highly": {
+		"name": "C-reactive Protein Highly",
+		"item-id": "86141",
+		"category": "300",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "10/16/2009",
+								"price": "171.75"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"CAKE OR SALAD PLATE 6 1/2\"": {
+		"name": "CAKE OR SALAD PLATE 6 1/2\"",
+		"item-id": "84526",
+		"category": "270",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "03/07/2012",
+								"price": "208.99"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"CALCIUM ALGINATE DRESSING": {
+		"name": "CALCIUM ALGINATE DRESSING",
+		"item-id": "MSC7044Z",
+		"category": "270",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "10/08/2010",
+								"price": "46.53"
+							},
+							{
+								"name": "private",
+								"effective-date": "03/24/2011",
+								"price": "19.40"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"CALCIUM LEVEL": {
+		"name": "CALCIUM LEVEL",
+		"item-id": "82340",
+		"category": "300",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "07/25/2011",
+								"price": "238.50"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"CALF WRAP LARGE": {
+		"name": "CALF WRAP LARGE",
+		"item-id": "MDS601MDD",
+		"category": "270",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "10/06/2009",
+								"price": "87.50"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
 }
