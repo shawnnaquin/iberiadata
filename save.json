@@ -4363,4 +4363,361 @@
 			}
 		]		
 	},
+	"BRIEF,ULTRA-SOFT,CLTH LIKE,MD,": {
+		"name": "BRIEF,ULTRA-SOFT,CLTH LIKE,MD,",
+		"item-id": "ULTRAPLUSMD",
+		"category": "270",
+		"items": [
+			{
+				"type": "Blue Cross",
+				"subtypes": [
+					{
+						"name": "Blue Cross",
+						"payor-id": "3001",
+						"subitems": [
+							{
+								"name": "Blue Cross",
+								"effective-date": "01/01/2001",
+								"price": "1.37"
+							},
+							{
+								"name": "Blue Cross",
+								"effective-date": "10/01/2009",
+								"price": "1.38"
+							}
+						]
+					}
+				]
+			},
+			{
+				"type": "Medicaid",
+				"subtypes": [
+					{
+						"name": "Medicaid",
+						"payor-id": "3002",
+						"subitems": [
+							{
+								"name": "Medicaid",
+								"effective-date": "01/01/2001",
+								"price": "1.37"
+							},
+							{
+								"name": "Medicaid",
+								"effective-date": "10/01/2009",
+								"price": "1.38"
+							}
+						]
+					}
+				]
+			},
+			{
+				"type": "medicare",
+				"subtypes": [
+					{
+						"name": "Medicare A",
+						"payor-id": "3003",
+						"subitems": [
+							{
+								"name": "Medicare A",
+								"effective-date": "01/01/2001",
+								"price": "1.37"
+							},
+							{
+								"name": "Medicare A",
+								"effective-date": "10/01/2009",
+								"price": "1.38"
+							}
+						]
+					},
+					{
+						"name": "Medicare B",
+						"payor-id": "3004",
+						"subitems": [
+							{
+								"name": "Medicare B",
+								"effective-date": "01/01/2001",
+								"price": "1.37"
+							},
+							{
+								"name": "Medicare B",
+								"effective-date": "10/01/2009",
+								"price": "1.38"
+							}
+						]
+					}
+
+				]
+			},
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "Private",
+								"effective-date": "01/01/2001",
+								"price": "1.37"
+							},
+							{
+								"name": "Private",
+								"effective-date": "09/28/2009",
+								"price": "2.36"
+							},
+							{
+								"name": "Private",
+								"effective-date": "10/01/2009",
+								"price": "2.36"
+							},
+							{
+								"name": "Private",
+								"effective-date": "10/19/2009",
+								"price": "5.78"
+							},
+							{
+								"name": "Private",
+								"effective-date": "03/24/2011",
+								"price": "41.25"
+							}
+						]
+					}
+				]
+			},
+			{
+				"type": "Veterans",
+				"subtypes": [
+					{
+						"name": "Veterans",
+						"payor-id": "3006",
+						"subitems": [
+							{
+								"name": "Veterans",
+								"effective-date": "01/01/2001",
+								"price": "1.37"
+							},
+							{
+								"name": "Veterans",
+								"effective-date": "10/01/2009",
+								"price": "1.38"
+							}
+						]
+					}
+				]
+			}
+		]		
+	},
+	"BRIEF,ULTRA-SOFT,CLTH LIKE,XL,": {
+		"name": "BRIEF,ULTRA-SOFT,CLTH LIKE,XL,",
+		"item-id": "ULTRAPLUSLG",
+		"category": "270",
+		"items": [
+			{
+				"type": "Blue Cross",
+				"subtypes": [
+					{
+						"name": "Blue Cross",
+						"payor-id": "3001",
+						"subitems": [
+							{
+								"name": "Blue Cross",
+								"effective-date": "01/01/2001",
+								"price": "2.20"
+							},
+							{
+								"name": "Blue Cross",
+								"effective-date": "10/01/2009",
+								"price": "2.20"
+							}
+						]
+					}
+				]
+			},
+			{
+				"type": "Medicaid",
+				"subtypes": [
+					{
+						"name": "Medicaid",
+						"payor-id": "3002",
+						"subitems": [
+							{
+								"name": "Medicaid",
+								"effective-date": "01/01/2001",
+								"price": "2.20"
+							},
+							{
+								"name": "Medicaid",
+								"effective-date": "10/01/2009",
+								"price": "2.20"
+							}
+						]
+					}
+				]
+			},
+			{
+				"type": "medicare",
+				"subtypes": [
+					{
+						"name": "Medicare A",
+						"payor-id": "3003",
+						"subitems": [
+							{
+								"name": "Medicare A",
+								"effective-date": "01/01/2001",
+								"price": "2.20"
+							},
+							{
+								"name": "Medicare A",
+								"effective-date": "10/01/2009",
+								"price": "2.20"
+							}
+						]
+					},
+					{
+						"name": "Medicare B",
+						"payor-id": "3004",
+						"subitems": [
+							{
+								"name": "Medicare B",
+								"effective-date": "01/01/2001",
+								"price": "2.20"
+							},
+							{
+								"name": "Medicare B",
+								"effective-date": "10/01/2009",
+								"price": "2.20"
+							}
+						]
+					}
+
+				]
+			},
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "Private",
+								"effective-date": "01/01/2001",
+								"price": "2.20"
+							},
+							{
+								"name": "Private",
+								"effective-date": "09/28/2009",
+								"price": "2.48"
+							},
+							{
+								"name": "Private",
+								"effective-date": "10/01/2009",
+								"price": "2.48"
+							},
+							{
+								"name": "Private",
+								"effective-date": "10/19/2009",
+								"price": "5.48"
+							},
+							{
+								"name": "Private",
+								"effective-date": "03/24/2011",
+								"price": "41.25"
+							}
+						]
+					}
+				]
+			},
+			{
+				"type": "Veterans",
+				"subtypes": [
+					{
+						"name": "Veterans",
+						"payor-id": "3006",
+						"subitems": [
+							{
+								"name": "Veterans",
+								"effective-date": "01/01/2001",
+								"price": "2.20"
+							},
+							{
+								"name": "Veterans",
+								"effective-date": "10/01/2009",
+								"price": "2.20"
+							}
+						]
+					}
+				]
+			}
+		]		
+	},
+	"BRIEF-PULL UP X-LG": {
+		"name": "BRIEF-PULL UP X-LG",
+		"item-id": "MSC 33600",
+		"category": "270",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "11/19/2010",
+								"price": "42.02"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"BRIEF-PULL UPS LG": {
+		"name": "BRIEF-PULL UPS LG",
+		"item-id": "MSC 33505",
+		"category": "270",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "11/19/2010",
+								"price": "42.02"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"BRIEF-PULLUP-SM": {
+		"name": "BRIEF-PULLUP-SM",
+		"item-id": "MSC 33255",
+		"category": "270",
+		"items": [
+			{
+				"type": "Private",
+				"subtypes": [
+					{
+						"name": "Private",
+						"payor-id": "3005",
+						"subitems": [
+							{
+								"name": "private",
+								"effective-date": "10/05/2012",
+								"price": "42.02"
+							}
+						]
+					}
+				]
+			}
+		]
+	}
 }
