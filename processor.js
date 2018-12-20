@@ -39,6 +39,15 @@ readModuleFile('./temp.txt', function (err, words) {
 
     });
 
+    var tt = []
+
+    data.forEach( (d)=> {
+        if ( tt.includes( d[0].trim() ) ) {
+            throw new Error('Duplicate');
+        }
+        tt.push( d[0].trim() );
+    });
+
     for ( const item of data ) {
 
         Object.keys( allItems ).forEach( (key)=> {
