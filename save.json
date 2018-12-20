@@ -982,7 +982,7 @@
 			}
 		]
 	},
-	"ACE WRAPS": {
+	"ACE WRAPS 1": {
 		"name": "ACE WRAPS",
 		"item-id": "MDS087156LF",
 		"category": "270",
@@ -1015,7 +1015,7 @@
 			}
 		]
 	},
-	"ACE WRAPS": {
+	"ACE WRAPS 2": {
 		"name": "ACE WRAPS",
 		"item-id": "MDS087006LFZ",
 		"category": "270",
@@ -1043,7 +1043,7 @@
 			}
 		]
 	},
-	"ACE WRAPS": {
+	"ACE WRAPS 3": {
 		"name": "ACE WRAPS",
 		"item-id": "MDS087006LFZ",
 		"category": "270",
@@ -2032,25 +2032,7 @@
 								"name": "private",
 								"effective-date": "10/16/2009",
 								"price": "51.30"
-							}
-						]
-					}
-				]
-			}
-		]
-	},
-	"AMBULATION/GAIT PT": {
-		"name": "AMBULATION/GAIT PT",
-		"item-id": "97116PT",
-		"category": "420",
-		"items": [
-			{
-				"type": "Private",
-				"subtypes": [
-					{
-						"name": "Private",
-						"payor-id": "3005",
-						"subitems": [
+							},
 							{
 								"name": "private",
 								"effective-date": "01/06/2011",
@@ -2154,7 +2136,7 @@
 			}
 		]
 	},
-	"ANKLE 2 VIEWS": {
+	"ANKLE 2 VIEWS 1": {
 		"name": "ANKLE 2 VIEWS",
 		"item-id": "73600",
 		"category": "400",
@@ -2177,7 +2159,7 @@
 			}
 		]
 	},
-	"ANKLE 2 VIEWS": {
+	"ANKLE 2 VIEWS 2": {
 		"name": "ANKLE 2 VIEWS",
 		"item-id": "93600 ",
 		"category": "300",
@@ -2717,7 +2699,7 @@
 			}
 		]
 	},
-	"B-12": {
+	"B-12 1": {
 		"name": "B-12",
 		"item-id": "1378",
 		"category": "300",
@@ -2786,7 +2768,7 @@
 			}
 		]
 	},
-	"B-12": {
+	"B-12 2": {
 		"name": "B-12",
 		"item-id": "82607",
 		"category": "300",
@@ -3594,7 +3576,7 @@
 			}
 		]
 	},
-	"BIOFREEZE 32OZ": {
+	"BIOFREEZE 32OZ 1": {
 		"name": "BIOFREEZE 32OZ",
 		"item-id": "755",
 		"category": "420",
@@ -3617,7 +3599,7 @@
 			}
 		]
 	},
-	"BIOFREEZE 32OZ": {
+	"BIOFREEZE 32OZ 2": {
 		"name": "BIOFREEZE 32OZ",
 		"item-id": "1061",
 		"category": "420",
@@ -4000,25 +3982,7 @@
 								"name": "private",
 								"effective-date": "10/16/2009",
 								"price": "60.48"
-							}
-						]
-					}
-				]
-			}
-		]
-	},
-	"BMP Basic Metabolic Panel": {
-		"name": "BMP Basic Metabolic Panel",
-		"item-id": "80048",
-		"category": "300",
-		"items": [
-			{
-				"type": "Private",
-				"subtypes": [
-					{
-						"name": "Private",
-						"payor-id": "3005",
-						"subitems": [
+							},
 							{
 								"name": "private",
 								"effective-date": "10/16/2009",
@@ -5098,5 +5062,5 @@
 				]
 			}
 		]
-	},
+	}
 }
