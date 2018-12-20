@@ -41,8 +41,15 @@ npm run go
 - compare `temp.txt` data to `save.json`
 - your're done!
 
-# TEST THE CODE IS MACHINE READABLE
-## get the highest price item
+## TEST THE CODE IS MACHINE READABLE
+
+### count the items
+output
+```
+1064 unique items found!
+```
+
+### get the highest price item
 
 ```npm run highest```
 

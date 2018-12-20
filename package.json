@@ -5,7 +5,8 @@
   "main": "processor.js",
   "scripts": {
     "go": "node processor.js",
-    "highest": "node getmostexpensive.js",
+    "highest": "node ./tests/getmostexpensive.js",
+    "count": "node ./tests/countitems.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

@@ -1,5 +1,5 @@
 
-var obj = require('./save.json');
+var obj = require('../save.json');
 Array.max = function( array ){
     return Math.max.apply( Math, array );
 };
