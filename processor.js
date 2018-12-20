@@ -1,4 +1,5 @@
 var fs = require('fs');
+var save = require('./save.json');
 
 function readModuleFile(path, callback) {
     try {
@@ -9,9 +10,10 @@ function readModuleFile(path, callback) {
     }
 }
 
-var item = {};
+// var allItems = {};
 
 readModuleFile('./temp.txt', function (err, words) {
+
     const allLines = words.split(/\r\n|\n/);
 
     const data = [];
@@ -30,135 +32,181 @@ readModuleFile('./temp.txt', function (err, words) {
     });
 
 
-    data.forEach( (d,i)=> {
+    data.forEach( (item) => {
 
-        item[d[0]] = {
-            "name": d[0],
-            "item-id": d[1],
-            "category": d[2],
+        allItems[ item[0] ] = {
+            "name": item[0],
+            "item-id": item[1],
+            "category": item[2],
             "items": []
         }
 
-        d.forEach( (l,p)=> {
+        subitems = {
+            'Blue Cross': [],
+            'Medicare A': [],
+            'Medicare B': [],
+            'Medicaid': [],
+            'Private': [],
+            'Veterans': []
+        };
 
-            var name = l.split(' ').splice(0, 2).join(' ').replace(/\d+/g,'');
-            var shortname = l.split(' ').splice(0, 1)[0];
+        item.forEach( (line, linenumber ) => {
 
-            var cur = item[ d[0] ];
-            var contains = false;
+            var name = line.split(' ').splice(0, 2).join(' ').replace(/\d+/g,'').replace(/\s*$/,'');
+            var shortname = name == 'Blue Cross' ? 'Blue Cross' : name.split(' ')[0];
 
-            if( p > 2 ) {
+            if( linenumber > 2 ) {
 
-                for( var s = 0; s < cur.items.length; s++ ) {
-                    if( cur.items.length && cur.items[s].type.includes( shortname ) ) {
-                        contains = true;
-                        break;
-                    } else {
-
+                subitems[name].push(
+                    {
+                        "price": line.split(' ').slice(-2)[1],
+                        "effective-date": line.split(' ').slice(-2)[0]
                     }
-                }
-
-                if ( !contains ) {
-                    cur.items.push( line(l) );
-                } else {
-                    contains = false;
-                }
-
-                console.log( cur.items.filter(   ) )
-
-                // if ( b.length ) {
-                //     var c = 
-                //         b[0].subtypes.filter( q => (
-                //             q.name == name || q.name == shortname
-                //         ) )[0];
-                // }
-
+                );
             }
 
         });
 
+        allItems[ item[0] ] = doItem( item[0], subitems );
+
     });
 
-    // console.log( item );
+    console.log( allItems );
 
 });
 
-function line(line) {
-    if ( line.includes('Blue') ) {
-        return BC;
-    } else if ( line.includes('Medicaid') ) {
-        return Medicaid;
-    } else if ( line.includes('Medicare') ) {
-        return Medicare;
-    } else if ( line.includes('Veterans') ) {
-        return Veterans;
-    } else if ( line.includes('Private') ) {
-        return Private;
+function doItem( name, subitems ) {
+
+    var t = {
+        'Medicare A': [],
+        'Medicare B': []
     }
+
+    Object.keys(subitems).forEach( (key) =>{
+
+        if ( !subitems[key].length ){
+            delete subitems[key];
+        }
+
+    });
+
+    Object.keys(subitems).forEach( (key) =>{
+
+        if ( key == 'Medicare A' || key == 'Medicare B') {
+            t[key] = subitems[key];
+            delete subitems[key];
+        }
+
+    });
+
+    if ( t['Medicare A'].length || t['Medicare B'].length ) {
+        subitems['Medicare'] = t;
+    }
+
+    var f = [];
+
+    Object.keys(subitems).forEach((key)=> {
+        f.push ( doLine( key, subitems[key] ) );
+    });
+
+    return f;
+
 }
 
-var BC =
-    {
-        "type": "Blue Cross",
-        "subtypes": [
-            {
-                "name": "Blue Cross",
+function doLine(name, line) {
+    return itemMaker[name](name,line);
+}
+
+var itemMaker = {
+    'Medicare': (name,line)=>{
+
+        line['Medicare A'].forEach( (line)=> {
+            line['name'] = 'Medicare A';
+        })
+
+        line['Medicare B'].forEach( (line) => {
+            line['name'] = 'Medicare B';
+        });
+
+        return {
+            "type": name,
+            "subtypes": [
+              {
+                "name": "Medicare A",
+                "payor-id": "3003",
+                "subitems": line['Medicare A']
+              },
+              {
+                "name": "Medicare B",
+                "payor-id": "3004",
+                "subitems": line['Medicare B']
+              }
+
+            ]
+        }
+    },
+    'Blue Cross': (name,line)=>{
+        line.forEach( (l)=> {
+            l['name'] = name;
+        });
+
+        return {
+            "type": name,
+            "subtypes": [
+              {
+                "name": name,
                 "payor-id": "3001",
-                "subitems": []
-            }
-        ]
-    };
-
-var Medicaid = 
-{
-    "type": "Medicaid",
-    "subtypes": [
-        {
-            "name": "Medicaid",
-            "payor-id": "3002",
-            "subitems": []
+                "subitems": line
+              }
+            ]
         }
-    ]
-};
+    },
+    'Medicaid': (name,line)=>{
+        line.forEach( (l)=> {
+            l['name'] = name;
+        });
 
-var Medicare = 
-{
-    "type": "Medicare",
-    "subtypes": [
-        {
-            "name": "Medicare A",
-            "payor-id": "3003",
-            "subitems": []
-        },
-        {
-            "name": "Medicare B",
-            "payor-id": "3004",
-            "subitems": []
+        return {
+            "type": name,
+            "subtypes": [
+              {
+                "name": name,
+                "payor-id": "3002",
+                "subitems": line
+              }
+            ]
         }
+    },
+    'Private': (name,line)=>{
+        line.forEach( (l)=> {
+            l['name'] = name;
+        });
 
-    ]
-};
- 
-var Private = 
-{
-    "type": "Private",
-    "subtypes": [
-        {
-            "name": "Private",
-            "payor-id": "3005",
-            "subitems": []
+        return {
+            "type": name,
+            "subtypes": [
+              {
+                "name": name,
+                "payor-id": "3005",
+                "subitems": line
+              }
+            ]
         }
-    ]
-};
+    },
+    'Veterans': (name,line)=>{
+        line.forEach( (l)=> {
+            l['name'] = name;
+        });
 
-var Veterans =
-{
-    "type": "Veterans",
-    "subtypes": [
-        {
-            "name": "Veterans",
-            "payor-id": "3006",
-            "subitems": []
+        return {
+            "type": name,
+            "subtypes": [
+              {
+                "name": name,
+                "payor-id": "3006",
+                "subitems": line
+              }
+            ]
         }
-    ]
+    }
 };
