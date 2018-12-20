@@ -7478,6 +7478,818 @@
                                 "price": "133.00",
                                 "effective-date": "10/16/2009",
                                 "name": "Private"
+                            },
+                            {
+                                "price": "50.00",
+                                "effective-date": "02/05/2016",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Chocolate Boost": {
+        "name": "Chocolate Boost",
+        "item-id": "2755",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "7.60",
+                                "effective-date": "02/22/2015",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Creatinine": {
+        "name": "Creatinine",
+        "item-id": "82565",
+        "category": "300",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "81.00",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Cross Match (Compatibility)": {
+        "name": "Cross Match (Compatibility)",
+        "item-id": "BL15",
+        "category": "300",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "366.00",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "610.00",
+                                "effective-date": "04/11/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Cultrue Wound Culture Aerobic": {
+        "name": "Cultrue Wound Culture Aerobic",
+        "item-id": "87070",
+        "category": "300",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "42.00",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Culture Blood Routine": {
+        "name": "Culture Blood Routine",
+        "item-id": "87103",
+        "category": "300",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "79.65",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Culture Stool": {
+        "name": "Culture Stool",
+        "item-id": "87045",
+        "category": "300",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "816.25",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "D-DIMER": {
+        "name": "D-DIMER",
+        "item-id": "85379",
+        "category": "300",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "750.00",
+                                "effective-date": "01/01/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DEB DRESS/ENZYMATIC PT": {
+        "name": "DEB DRESS/ENZYMATIC PT",
+        "item-id": "97602 PT",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "405.00",
+                                "effective-date": "04/25/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DEB DRESS/ENZYMATIC PT 1": {
+        "name": "DEB DRESS/ENZYMATIC PT 1",
+        "item-id": "97602PT",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "405.00",
+                                "effective-date": "04/25/2011",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "405.00",
+                                "effective-date": "04/26/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Veterans",
+                "subtypes": [
+                    {
+                        "name": "Veterans",
+                        "payor-id": "3006",
+                        "subitems": [
+                            {
+                                "price": "405.00",
+                                "effective-date": "04/26/2011",
+                                "name": "Veterans"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DEBRIDEMENT KIT": {
+        "name": "DEBRIDEMENT KIT",
+        "item-id": "DYND71200",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "10.19",
+                                "effective-date": "10/07/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DEFIB PADS": {
+        "name": "DEFIB PADS",
+        "item-id": "2345N",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "8.91",
+                                "effective-date": "10/12/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DENTURE ADHESIVE": {
+        "name": "DENTURE ADHESIVE",
+        "item-id": "4139",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "5.00",
+                                "effective-date": "09/14/2017",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DENTURE CUP": {
+        "name": "DENTURE CUP",
+        "item-id": "DYND70293",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "0.60",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DEODORANT,ROLL-ON 1.5 OZ": {
+        "name": "DEODORANT,ROLL-ON 1.5 OZ",
+        "item-id": "MSC095010",
+        "category": "270",
+        "items": [
+            {
+                "type": "Blue Cross",
+                "subtypes": [
+                    {
+                        "name": "Blue Cross",
+                        "payor-id": "3001",
+                        "subitems": [
+                            {
+                                "price": "2.05",
+                                "effective-date": "01/01/2001",
+                                "name": "Blue Cross"
+                            },
+                            {
+                                "price": "1.61",
+                                "effective-date": "10/01/2009",
+                                "name": "Blue Cross"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicaid",
+                "subtypes": [
+                    {
+                        "name": "Medicaid",
+                        "payor-id": "3002",
+                        "subitems": [
+                            {
+                                "price": "1.61",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicaid"
+                            },
+                            {
+                                "price": "1.61",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicaid"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "1.61",
+                                "effective-date": "01/01/2001",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "1.90",
+                                "effective-date": "09/28/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "1.90",
+                                "effective-date": "10/01/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "1.19",
+                                "effective-date": "10/15/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "2.05",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Veterans",
+                "subtypes": [
+                    {
+                        "name": "Veterans",
+                        "payor-id": "3006",
+                        "subitems": [
+                            {
+                                "price": "1.61",
+                                "effective-date": "01/01/2001",
+                                "name": "Veterans"
+                            },
+                            {
+                                "price": "1.61",
+                                "effective-date": "10/01/2009",
+                                "name": "Veterans"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicare",
+                "subtypes": [
+                    {
+                        "name": "Medicare A",
+                        "payor-id": "3003",
+                        "subitems": [
+                            {
+                                "price": "1.61",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicare A"
+                            },
+                            {
+                                "price": "1.61",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicare A"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Medicare B",
+                        "payor-id": "3004",
+                        "subitems": [
+                            {
+                                "price": "1.61",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicare B"
+                            },
+                            {
+                                "price": "1.61",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicare B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DERMAGRAN 4X4": {
+        "name": "DERMAGRAN 4X4",
+        "item-id": "DERSPD2144H",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "6.64",
+                                "effective-date": "10/08/2010",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "33.20",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DERMAL CURETTES": {
+        "name": "DERMAL CURETTES",
+        "item-id": "3529",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "12.65",
+                                "effective-date": "08/23/2016",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DERMAL WOUND CLEANSER 6OZ": {
+        "name": "DERMAL WOUND CLEANSER 6OZ",
+        "item-id": "CRR102060",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "34.11",
+                                "effective-date": "10/08/2010",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "13.00",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DIALYSIS": {
+        "name": "DIALYSIS",
+        "item-id": "90935",
+        "category": "801",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "862.90",
+                                "effective-date": "06/15/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DIALYSIS CATHETER INSERTION": {
+        "name": "DIALYSIS CATHETER INSERTION",
+        "item-id": "3315",
+        "category": "360",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "1725.00",
+                                "effective-date": "04/18/2016",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "1725.00",
+                                "effective-date": "04/27/2016",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "6600.00",
+                                "effective-date": "10/01/2017",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DIALYSIS CATHETER INSERTION 1": {
+        "name": "DIALYSIS CATHETER INSERTION 1",
+        "item-id": "4221",
+        "category": "360",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "6600.00",
+                                "effective-date": "10/01/2017",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "6600.00",
+                                "effective-date": "10/25/2017",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DINNER PLATE 9\"": {
+        "name": "DINNER PLATE 9\"",
+        "item-id": "84525",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "162.99",
+                                "effective-date": "03/07/2012",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DISP. BLOOD PRESSURE CUFF": {
+        "name": "DISP. BLOOD PRESSURE CUFF",
+        "item-id": "MDS9733",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "35.70",
+                                "effective-date": "06/28/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DISP. BLOODPRESSURE CUFF 1": {
+        "name": "DISP. BLOODPRESSURE CUFF 1",
+        "item-id": "MDS9723DM",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "13.05",
+                                "effective-date": "11/09/2010",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DISP. STETHOSCOPE": {
+        "name": "DISP. STETHOSCOPE",
+        "item-id": "MDS9543-",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "1.60",
+                                "effective-date": "11/09/2010",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "8.00",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DISP. THERMOMETER": {
+        "name": "DISP. THERMOMETER",
+        "item-id": "MDS9628",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "5.95",
+                                "effective-date": "06/28/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DISPOSABLE B/P CUFFS": {
+        "name": "DISPOSABLE B/P CUFFS",
+        "item-id": "MDS9723HP",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "4.00",
+                                "effective-date": "05/21/2010",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "7.90",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DISPOSABLE STETHOSCOPE": {
+        "name": "DISPOSABLE STETHOSCOPE",
+        "item-id": "MDS9543",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "1.60",
+                                "effective-date": "05/21/2010",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "8.00",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
                             }
                         ]
                     }
