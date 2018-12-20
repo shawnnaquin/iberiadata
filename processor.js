@@ -79,7 +79,7 @@ readModuleFile('./temp.txt', function (err, words) {
         });
 
         allItems[ item[0] ].items = doItem( item[0], subitems );
-        console.log( JSON.stringify( allItems[ item[0] ] ) );
+        // console.log( JSON.stringify( allItems[ item[0] ] ) );
     }
 
     fs.writeFileSync( 'save.json', JSON.stringify( allItems ), 'utf-8' );
