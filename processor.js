@@ -43,7 +43,7 @@ readModuleFile('./temp.txt', function (err, words) {
 
     data.forEach( (d)=> {
         if ( tt.includes( d[0].trim() ) ) {
-            console.log( 'in temp: '+key );
+            console.log( 'in temp: '+d[0].trim() );
             throw new Error('Duplicate');
         }
         tt.push( d[0].trim() );
