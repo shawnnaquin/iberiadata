@@ -44,6 +44,7 @@ npm run go
 ## TEST THE CODE IS MACHINE READABLE
 
 ### count the items
+```npm run count```
 ```
 1064 unique items found!
 ```
