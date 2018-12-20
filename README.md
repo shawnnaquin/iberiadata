@@ -19,17 +19,16 @@ ${name} (String)
 \n
 ```
 
+example ${line-item}:
 ```
-example line-item:
-${name} + ' ' +	${payor-id} + ' ' +	${date} + ' ' + ${price}
+line-name + ' ' + payor-id + ' ' + date + ' ' + price
 ```
 
+Valid line-name:
 ```
-Valid ${names}:
 [ `Blue Cross`, `Medicaid`, `Medicare A`, `Medicare B`, `Private`, `Veterans` ]
-
-(note: capitol first letter!)
 ```
+(note: capitol first letter!)
 
 - run the program...
 ```
