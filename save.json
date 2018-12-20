@@ -8296,5 +8296,835 @@
                 ]
             }
         ]
+    },
+    "DLX TRACTION GLOVE": {
+        "name": "DLX TRACTION GLOVE",
+        "item-id": "081050475",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "161.50",
+                                "effective-date": "03/12/2014",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DOME COVERS (MAUVE)": {
+        "name": "DOME COVERS (MAUVE)",
+        "item-id": "10161",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "169.99",
+                                "effective-date": "03/07/2012",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DRAIN POUCH": {
+        "name": "DRAIN POUCH",
+        "item-id": "18134",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "29.00",
+                                "effective-date": "11/06/2012",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DRAINBAG,A/R DEVICE 2000ML MTL": {
+        "name": "DRAINBAG,A/R DEVICE 2000ML MTL",
+        "item-id": "DYND15210",
+        "category": "260",
+        "items": [
+            {
+                "type": "Blue Cross",
+                "subtypes": [
+                    {
+                        "name": "Blue Cross",
+                        "payor-id": "3001",
+                        "subitems": [
+                            {
+                                "price": "15.95",
+                                "effective-date": "01/01/2001",
+                                "name": "Blue Cross"
+                            },
+                            {
+                                "price": "15.95",
+                                "effective-date": "10/01/2009",
+                                "name": "Blue Cross"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicaid",
+                "subtypes": [
+                    {
+                        "name": "Medicaid",
+                        "payor-id": "3002",
+                        "subitems": [
+                            {
+                                "price": "15.95",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicaid"
+                            },
+                            {
+                                "price": "15.95",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicaid"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "15.95",
+                                "effective-date": "01/01/2001",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "8.69",
+                                "effective-date": "09/28/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "8.69",
+                                "effective-date": "10/01/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "19.95",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Veterans",
+                "subtypes": [
+                    {
+                        "name": "Veterans",
+                        "payor-id": "3006",
+                        "subitems": [
+                            {
+                                "price": "15.95",
+                                "effective-date": "01/01/2001",
+                                "name": "Veterans"
+                            },
+                            {
+                                "price": "15.95",
+                                "effective-date": "10/01/2009",
+                                "name": "Veterans"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicare",
+                "subtypes": [
+                    {
+                        "name": "Medicare A",
+                        "payor-id": "3003",
+                        "subitems": [
+                            {
+                                "price": "15.95",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicare A"
+                            },
+                            {
+                                "price": "15.95",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicare A"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Medicare B",
+                        "payor-id": "3004",
+                        "subitems": [
+                            {
+                                "price": "15.95",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicare B"
+                            },
+                            {
+                                "price": "15.95",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicare B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DRESSING CHANGE TRAY DYND": {
+        "name": "DRESSING CHANGE TRAY DYND",
+        "item-id": "75221",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "71.12",
+                                "effective-date": "06/29/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DRESSING STICK": {
+        "name": "DRESSING STICK",
+        "item-id": "A698-20",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "8.99",
+                                "effective-date": "06/11/2012",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DRESSING STICK 26\"": {
+        "name": "DRESSING STICK 26\"",
+        "item-id": "2109",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "8.00",
+                                "effective-date": "06/07/2010",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DRESSING STICK 26\" 1": {
+        "name": "DRESSING STICK 26\" 1",
+        "item-id": "A698-3",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "9.99",
+                                "effective-date": "06/20/2012",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DRSG SURESITE WINDOW 2.375X 2.": {
+        "name": "DRSG SURESITE WINDOW 2.375X 2.",
+        "item-id": "MSC2302",
+        "category": "270",
+        "items": [
+            {
+                "type": "Blue Cross",
+                "subtypes": [
+                    {
+                        "name": "Blue Cross",
+                        "payor-id": "3001",
+                        "subitems": [
+                            {
+                                "price": "1.73",
+                                "effective-date": "01/01/2001",
+                                "name": "Blue Cross"
+                            },
+                            {
+                                "price": "1.74",
+                                "effective-date": "10/01/2009",
+                                "name": "Blue Cross"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicaid",
+                "subtypes": [
+                    {
+                        "name": "Medicaid",
+                        "payor-id": "3002",
+                        "subitems": [
+                            {
+                                "price": "1.73",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicaid"
+                            },
+                            {
+                                "price": "1.74",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicaid"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "1.73",
+                                "effective-date": "01/01/2001",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "1.98",
+                                "effective-date": "09/28/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "1.98",
+                                "effective-date": "10/01/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "2.20",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Veterans",
+                "subtypes": [
+                    {
+                        "name": "Veterans",
+                        "payor-id": "3006",
+                        "subitems": [
+                            {
+                                "price": "1.73",
+                                "effective-date": "01/01/2001",
+                                "name": "Veterans"
+                            },
+                            {
+                                "price": "1.74",
+                                "effective-date": "10/01/2009",
+                                "name": "Veterans"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicare",
+                "subtypes": [
+                    {
+                        "name": "Medicare A",
+                        "payor-id": "3003",
+                        "subitems": [
+                            {
+                                "price": "1.73",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicare A"
+                            },
+                            {
+                                "price": "1.74",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicare A"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Medicare B",
+                        "payor-id": "3004",
+                        "subitems": [
+                            {
+                                "price": "1.73",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicare B"
+                            },
+                            {
+                                "price": "1.74",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicare B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DRUG SCREEN": {
+        "name": "DRUG SCREEN",
+        "item-id": "80101",
+        "category": "300",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "225.00",
+                                "effective-date": "04/08/2014",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "DUODERM 4 X4 THIN 1": {
+        "name": "DUODERM 4 X4 THIN 1",
+        "item-id": "718",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "5.23",
+                                "effective-date": "07/02/2010",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "5.23",
+                                "effective-date": "07/21/2010",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "29.15",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Digoxin": {
+        "name": "Digoxin",
+        "item-id": "80162",
+        "category": "300",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "270.00",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Dopper Venous": {
+        "name": "Dopper Venous",
+        "item-id": "93965",
+        "category": "400",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "1475.00",
+                                "effective-date": "10/01/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "EACH ADDITIONAL 30 MINUTES": {
+        "name": "EACH ADDITIONAL 30 MINUTES",
+        "item-id": "92608ST",
+        "category": "440",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "87.75",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ECG, ELECTRODES MDS": {
+        "name": "ECG, ELECTRODES MDS",
+        "item-id": "611303AZ",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "8.95",
+                                "effective-date": "09/08/2010",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ECHOCARDIOGRAM": {
+        "name": "ECHOCARDIOGRAM",
+        "item-id": "1422",
+        "category": "350",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "9972.50",
+                                "effective-date": "08/04/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ECHOCARDIOGRAM 1": {
+        "name": "ECHOCARDIOGRAM 1",
+        "item-id": "93306",
+        "category": "350",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "1050.00",
+                                "effective-date": "05/23/2013",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "EDEMA GLOVE- MED": {
+        "name": "EDEMA GLOVE- MED",
+        "item-id": "A571225",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "4.15",
+                                "effective-date": "11/03/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "20.75",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "EDEMA GLOVE-LEFT LG": {
+        "name": "EDEMA GLOVE-LEFT LG",
+        "item-id": "9293-29",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "10.95",
+                                "effective-date": "06/30/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "EDEMA GLOVE-LEFT MEDIUM": {
+        "name": "EDEMA GLOVE-LEFT MEDIUM",
+        "item-id": "9293-27",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "10.95",
+                                "effective-date": "06/30/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "EDEMA GLOVE-LEFT SM": {
+        "name": "EDEMA GLOVE-LEFT SM",
+        "item-id": "9293-25",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "10.95",
+                                "effective-date": "06/30/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "EDEMA GLOVE-LG": {
+        "name": "EDEMA GLOVE-LG",
+        "item-id": "A571227",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "4.15",
+                                "effective-date": "11/03/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "20.75",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "EDEMA GLOVE-LG RIGHT": {
+        "name": "EDEMA GLOVE-LG RIGHT",
+        "item-id": "9293-30",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "10.95",
+                                "effective-date": "06/30/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "EDEMA GLOVE-RIGHT-SM": {
+        "name": "EDEMA GLOVE-RIGHT-SM",
+        "item-id": "9293-26",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "10.95",
+                                "effective-date": "06/30/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "EDEMA GLOVE-SM": {
+        "name": "EDEMA GLOVE-SM",
+        "item-id": "A571222",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "4.15",
+                                "effective-date": "11/03/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "20.75",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 }
