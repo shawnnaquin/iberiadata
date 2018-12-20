@@ -1,0 +1,23 @@
+{
+  "name": "iberiadata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "processor.js",
+  "scripts": {
+    "go": "node processor.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawnnaquin/iberiadata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawnnaquin/iberiadata/issues"
+  },
+  "homepage": "https://github.com/shawnnaquin/iberiadata#readme",
+  "devDependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
