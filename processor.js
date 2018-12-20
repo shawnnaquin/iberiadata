@@ -10,7 +10,7 @@ function readModuleFile(path, callback) {
     }
 }
 
-// var allItems = {};
+var allItems = save;
 
 readModuleFile('./temp.txt', function (err, words) {
 
@@ -19,25 +19,38 @@ readModuleFile('./temp.txt', function (err, words) {
     const data = [];
     var t = [];
 
-    allLines.forEach( (line)=> {
+    if ( allLines.slice(-1)[0] !== '' ) {
+        allLines.push('');
+    }
 
-        if ( line === '' ) {
+    allLines.forEach( (line,i)=> {
+
+        line = line.trim();
+
+        if ( line === '') {
             data.push(t);
             t = [];
         } else {
-            line = line.replace(/^\s+|\s+$/g, '');
-            t.push(line);
+            if ( line == 'null' ) {
+                line = null;
+            }
+            t.push( line );
         }
 
     });
 
+    for ( const item of data ) {
 
-    data.forEach( (item) => {
+        Object.keys( allItems ).forEach( (key)=> {
+            if (  key == item[0] ) {
+                throw new Error('Duplicate');
+            }
+        });
 
         allItems[ item[0] ] = {
             "name": item[0],
             "item-id": item[1],
-            "category": item[2],
+            "category": item[2] ? item[2] : null,
             "items": []
         }
 
@@ -52,11 +65,9 @@ readModuleFile('./temp.txt', function (err, words) {
 
         item.forEach( (line, linenumber ) => {
 
-            var name = line.split(' ').splice(0, 2).join(' ').replace(/\d+/g,'').replace(/\s*$/,'');
-            var shortname = name == 'Blue Cross' ? 'Blue Cross' : name.split(' ')[0];
-
-            if( linenumber > 2 ) {
-
+            if( linenumber > 2 && line !== null ) {
+                var name = line.split(' ').splice(0, 2).join(' ').replace(/\d+/g,'').replace(/\s*$/,'');
+                var shortname = name == 'Blue Cross' ? 'Blue Cross' : name.split(' ')[0];
                 subitems[name].push(
                     {
                         "price": line.split(' ').slice(-2)[1],
@@ -67,11 +78,11 @@ readModuleFile('./temp.txt', function (err, words) {
 
         });
 
-        allItems[ item[0] ] = doItem( item[0], subitems );
+        allItems[ item[0] ].items = doItem( item[0], subitems );
+        console.log( JSON.stringify( allItems[ item[0] ] ) );
+    }
 
-    });
-
-    console.log( allItems );
+    fs.writeFileSync( 'save.json', JSON.stringify( allItems ), 'utf-8' );
 
 });
 
