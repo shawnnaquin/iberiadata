@@ -15716,5 +15716,1575 @@
                 ]
             }
         ]
+    },
+    "IRRIGATION SOLUTION NACL 500ML": {
+        "name": "IRRIGATION SOLUTION NACL 500ML",
+        "item-id": "BMGR520101",
+        "category": "260",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "5.63",
+                                "effective-date": "10/20/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "9.50",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ISOLATION GOWNS": {
+        "name": "ISOLATION GOWNS",
+        "item-id": "CRI4000",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "1.75",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "IV CATH 20G X 1\" SFTY": {
+        "name": "IV CATH 20G X 1\" SFTY",
+        "item-id": "BMG4251652 Z",
+        "category": "260",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "143.13",
+                                "effective-date": "02/15/2012",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "IV CATH 22G X 1 SFTY": {
+        "name": "IV CATH 22G X 1 SFTY",
+        "item-id": "BMG4252519 Z",
+        "category": "260",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "135.40",
+                                "effective-date": "02/15/2012",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "IV JELCO 20G X 1": {
+        "name": "IV JELCO 20G X 1",
+        "item-id": "BMG4251652Z",
+        "category": "260",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "143.13",
+                                "effective-date": "08/23/2010",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "14.35",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "IV JELCO 24G X 3/4\"": {
+        "name": "IV JELCO 24G X 3/4\"",
+        "item-id": "BMG4251301Z",
+        "category": "260",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "151.30",
+                                "effective-date": "08/23/2010",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "15.80",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "IV LABELS 3018": {
+        "name": "IV LABELS 3018",
+        "category": null,
+        "items": []
+    },
+    "IV SOLUTION 5% NACL 0.9% 1000C": {
+        "name": "IV SOLUTION 5% NACL 0.9% 1000C",
+        "item-id": "BMGL6100",
+        "category": "260",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "43.49",
+                                "effective-date": "07/09/2012",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "IV SOLUTION 9% 250ML": {
+        "name": "IV SOLUTION 9% 250ML",
+        "item-id": "BMGL8002",
+        "category": "260",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "7.43",
+                                "effective-date": "10/22/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "12.40",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "IV SOLUTION DEXT 5% 1000M": {
+        "name": "IV SOLUTION DEXT 5% 1000M",
+        "item-id": "BMGL6100H",
+        "category": "260",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "2.28",
+                                "effective-date": "10/22/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "11.40",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "IV SOLUTION DEXT 5% NACL 45%": {
+        "name": "IV SOLUTION DEXT 5% NACL 45%",
+        "item-id": "BMGL6120",
+        "category": "260",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "7.80",
+                                "effective-date": "10/22/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "13.00",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "IV SOLUTION LR 1000ML": {
+        "name": "IV SOLUTION LR 1000ML",
+        "item-id": "BMGL7500",
+        "category": "260",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "6.60",
+                                "effective-date": "10/22/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "11.00",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "IV SOLUTION NACL 0.9% 100ML": {
+        "name": "IV SOLUTION NACL 0.9% 100ML",
+        "item-id": "3643-1",
+        "category": "260",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "7.70",
+                                "effective-date": "11/06/2016",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "IV SOLUTION NACL 0.9%, 50ML": {
+        "name": "IV SOLUTION NACL 0.9%, 50ML",
+        "item-id": "3644",
+        "category": "260",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "14.40",
+                                "effective-date": "11/06/2016",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "IV SOLUTION SET /2 INJ PORTS": {
+        "name": "IV SOLUTION SET /2 INJ PORTS",
+        "item-id": "BAX2C6425",
+        "category": "260",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "251.52",
+                                "effective-date": "02/14/2011",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "26.20",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "IV SOLUTION, NACL .45%, 1000ML": {
+        "name": "IV SOLUTION, NACL .45%, 1000ML",
+        "item-id": "BMGL8020H",
+        "category": "260",
+        "items": [
+            {
+                "type": "Blue Cross",
+                "subtypes": [
+                    {
+                        "name": "Blue Cross",
+                        "payor-id": "3001",
+                        "subitems": [
+                            {
+                                "price": "9.36",
+                                "effective-date": "01/01/2001",
+                                "name": "Blue Cross"
+                            },
+                            {
+                                "price": "9.36",
+                                "effective-date": "10/01/2009",
+                                "name": "Blue Cross"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicaid",
+                "subtypes": [
+                    {
+                        "name": "Medicaid",
+                        "payor-id": "3002",
+                        "subitems": [
+                            {
+                                "price": "9.36",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicaid"
+                            },
+                            {
+                                "price": "9.36",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicaid"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "9.36",
+                                "effective-date": "01/01/2001",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "9.60",
+                                "effective-date": "09/28/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "9.60",
+                                "effective-date": "10/01/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "11.70",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Veterans",
+                "subtypes": [
+                    {
+                        "name": "Veterans",
+                        "payor-id": "3006",
+                        "subitems": [
+                            {
+                                "price": "9.36",
+                                "effective-date": "01/01/2001",
+                                "name": "Veterans"
+                            },
+                            {
+                                "price": "9.36",
+                                "effective-date": "10/01/2009",
+                                "name": "Veterans"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicare",
+                "subtypes": [
+                    {
+                        "name": "Medicare A",
+                        "payor-id": "3003",
+                        "subitems": [
+                            {
+                                "price": "9.36",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicare A"
+                            },
+                            {
+                                "price": "9.36",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicare A"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Medicare B",
+                        "payor-id": "3004",
+                        "subitems": [
+                            {
+                                "price": "9.36",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicare B"
+                            },
+                            {
+                                "price": "9.36",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicare B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "IV SOLUTION, NACL .9%, 1000ML": {
+        "name": "IV SOLUTION, NACL .9%, 1000ML",
+        "item-id": "BMGL8000",
+        "category": "260",
+        "items": [
+            {
+                "type": "Blue Cross",
+                "subtypes": [
+                    {
+                        "name": "Blue Cross",
+                        "payor-id": "3001",
+                        "subitems": [
+                            {
+                                "price": "12.38",
+                                "effective-date": "01/01/2001",
+                                "name": "Blue Cross"
+                            },
+                            {
+                                "price": "12.38",
+                                "effective-date": "10/01/2009",
+                                "name": "Blue Cross"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicaid",
+                "subtypes": [
+                    {
+                        "name": "Medicaid",
+                        "payor-id": "3002",
+                        "subitems": [
+                            {
+                                "price": "12.38",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicaid"
+                            },
+                            {
+                                "price": "12.38",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicaid"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "12.38",
+                                "effective-date": "01/01/2001",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "11.75",
+                                "effective-date": "09/28/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "11.75",
+                                "effective-date": "10/01/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "15.50",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Veterans",
+                "subtypes": [
+                    {
+                        "name": "Veterans",
+                        "payor-id": "3006",
+                        "subitems": [
+                            {
+                                "price": "12.38",
+                                "effective-date": "01/01/2001",
+                                "name": "Veterans"
+                            },
+                            {
+                                "price": "12.38",
+                                "effective-date": "10/01/2009",
+                                "name": "Veterans"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicare",
+                "subtypes": [
+                    {
+                        "name": "Medicare A",
+                        "payor-id": "3003",
+                        "subitems": [
+                            {
+                                "price": "12.38",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicare A"
+                            },
+                            {
+                                "price": "12.38",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicare A"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Medicare B",
+                        "payor-id": "3004",
+                        "subitems": [
+                            {
+                                "price": "12.38",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicare B"
+                            },
+                            {
+                                "price": "12.38",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicare B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "IV SOULTION 9% 150 ML": {
+        "name": "IV SOULTION 9% 150 ML",
+        "item-id": "BMGS80045264",
+        "category": "260",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "9.36",
+                                "effective-date": "10/28/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "15.65",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "IV STARTER KIT": {
+        "name": "IV STARTER KIT",
+        "item-id": "771",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "7.45",
+                                "effective-date": "07/28/2010",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "IV STARTER KITS": {
+        "name": "IV STARTER KITS",
+        "item-id": "770",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "74.34",
+                                "effective-date": "07/30/2010",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "7.45",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "IV TUBING LABEL": {
+        "name": "IV TUBING LABEL",
+        "item-id": "SHMIV-4",
+        "category": "270",
+        "items": []
+    },
+    "IVC FILTER INSERTION": {
+        "name": "IVC FILTER INSERTION",
+        "item-id": "37191",
+        "category": "490",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "13542.00",
+                                "effective-date": "07/29/2014",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "13542.00",
+                                "effective-date": "07/31/2014",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Incentive spirometer, initial": {
+        "name": "Incentive spirometer, initial",
+        "item-id": "res35",
+        "category": "410",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "40.37",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Iron": {
+        "name": "Iron",
+        "item-id": "83540",
+        "category": "300",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "81.00",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Iron Binding Capacity": {
+        "name": "Iron Binding Capacity",
+        "item-id": "83550",
+        "category": "300",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "50.00",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "JELCO 20G X 1": {
+        "name": "JELCO 20G X 1",
+        "item-id": "J-J4057Z",
+        "category": "260",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "15.00",
+                                "effective-date": "05/01/2015",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "JELCO IV 18 X 1.25": {
+        "name": "JELCO IV 18 X 1.25",
+        "item-id": "J-J33952",
+        "category": "260",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "244.05",
+                                "effective-date": "02/14/2011",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "24.45",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "JELCO IV CATHETER, 18G X 1 1/4": {
+        "name": "JELCO IV CATHETER, 18G X 1 1/4",
+        "item-id": "2320",
+        "category": "260",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "2.18",
+                                "effective-date": "11/14/2013",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "JELCO,IV 22 G X 1\" J-J": {
+        "name": "JELCO,IV 22 G X 1\" J-J",
+        "item-id": "3380H",
+        "category": "260",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "5.34",
+                                "effective-date": "08/24/2010",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "26.70",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "JELCO,IV 22G X 1\"": {
+        "name": "JELCO,IV 22G X 1\"",
+        "item-id": "820",
+        "category": "260",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "5.34",
+                                "effective-date": "08/23/2010",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "26.70",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "JELCO,IV 24G X 3/4\"": {
+        "name": "JELCO,IV 24G X 3/4\"",
+        "item-id": "821",
+        "category": "260",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "62.12",
+                                "effective-date": "08/23/2010",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "6.25",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "JELCO,IV 24G X 3/4\" 1": {
+        "name": "JELCO,IV 24G X 3/4\" 1",
+        "item-id": "NPMC12420Z",
+        "category": "260",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "62.12",
+                                "effective-date": "08/24/2010",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "6.25",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "JELCO,IV,PROTECT,ACUVANCE,20G": {
+        "name": "JELCO,IV,PROTECT,ACUVANCE,20G",
+        "item-id": "2444",
+        "category": "260",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "157.13",
+                                "effective-date": "03/25/2014",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "JEVITY 1 CAL,VANILLA,8 OZ CAN": {
+        "name": "JEVITY 1 CAL,VANILLA,8 OZ CAN",
+        "item-id": "R-L00143",
+        "category": "270",
+        "items": [
+            {
+                "type": "Blue Cross",
+                "subtypes": [
+                    {
+                        "name": "Blue Cross",
+                        "payor-id": "3001",
+                        "subitems": [
+                            {
+                                "price": "1.22",
+                                "effective-date": "01/01/2001",
+                                "name": "Blue Cross"
+                            },
+                            {
+                                "price": "1.23",
+                                "effective-date": "10/01/2009",
+                                "name": "Blue Cross"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicaid",
+                "subtypes": [
+                    {
+                        "name": "Medicaid",
+                        "payor-id": "3002",
+                        "subitems": [
+                            {
+                                "price": "1.22",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicaid"
+                            },
+                            {
+                                "price": "1.23",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicaid"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "1.22",
+                                "effective-date": "01/01/2001",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "1.10",
+                                "effective-date": "09/28/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "1.10",
+                                "effective-date": "10/01/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "2.84",
+                                "effective-date": "05/08/2013",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Veterans",
+                "subtypes": [
+                    {
+                        "name": "Veterans",
+                        "payor-id": "3006",
+                        "subitems": [
+                            {
+                                "price": "1.22",
+                                "effective-date": "01/01/2001",
+                                "name": "Veterans"
+                            },
+                            {
+                                "price": "1.23",
+                                "effective-date": "10/01/2009",
+                                "name": "Veterans"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicare",
+                "subtypes": [
+                    {
+                        "name": "Medicare A",
+                        "payor-id": "3003",
+                        "subitems": [
+                            {
+                                "price": "1.22",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicare A"
+                            },
+                            {
+                                "price": "1.23",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicare A"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Medicare B",
+                        "payor-id": "3004",
+                        "subitems": [
+                            {
+                                "price": "1.22",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicare B"
+                            },
+                            {
+                                "price": "1.23",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicare B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "JEVITY 1.2 8oz. CAN": {
+        "name": "JEVITY 1.2 8oz. CAN",
+        "item-id": "R-L53118",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "2.22",
+                                "effective-date": "01/01/2010",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "JEVITY 1.5": {
+        "name": "JEVITY 1.5",
+        "item-id": "R-L57333",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "10.76",
+                                "effective-date": "11/30/2010",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "JOINT MOBILIZ/PROM OT": {
+        "name": "JOINT MOBILIZ/PROM OT",
+        "item-id": "97140OT",
+        "category": "430",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "59.40",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "JOINT MOBILIZ/PROM PT": {
+        "name": "JOINT MOBILIZ/PROM PT",
+        "item-id": "97140PT",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "59.40",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "JUVEN-FRUIT PUNCH": {
+        "name": "JUVEN-FRUIT PUNCH",
+        "item-id": "R-L56433",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "72.32",
+                                "effective-date": "06/15/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "KENNEDY CUP": {
+        "name": "KENNEDY CUP",
+        "item-id": "081506955",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "89.99",
+                                "effective-date": "09/21/2012",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "KEPPRA LEVEL": {
+        "name": "KEPPRA LEVEL",
+        "item-id": "82491",
+        "category": "300",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "225.00",
+                                "effective-date": "05/17/2013",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "225.00",
+                                "effective-date": "05/21/2013",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "KIT, ADAPTER AND STERILE H20": {
+        "name": "KIT, ADAPTER AND STERILE H20",
+        "item-id": "CFU0010H",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "9.59",
+                                "effective-date": "10/13/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "KIT,SUCTION CANISTER (TUB & SO": {
+        "name": "KIT,SUCTION CANISTER (TUB & SO",
+        "item-id": "DYND 44705",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "123.33",
+                                "effective-date": "08/30/2010",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "38.55",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "KNEE 1 OR 2 VIEWS": {
+        "name": "KNEE 1 OR 2 VIEWS",
+        "item-id": "73560",
+        "category": "400",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "75.60",
+                                "effective-date": "01/01/2000",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "225.00",
+                                "effective-date": "02/21/2014",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "325.00",
+                                "effective-date": "05/13/2014",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "KNEE IMMOBILIZER 12\"": {
+        "name": "KNEE IMMOBILIZER 12\"",
+        "item-id": "3212WH1",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "160.00",
+                                "effective-date": "05/21/2013",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "KNEE SEPARATOR VINYL": {
+        "name": "KNEE SEPARATOR VINYL",
+        "item-id": "081279454",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "46.44",
+                                "effective-date": "02/20/2012",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "KNEE SERERATOR": {
+        "name": "KNEE SERERATOR",
+        "item-id": "A513-30-1",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "46.95",
+                                "effective-date": "10/30/2012",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Kidney Imaging-Spect": {
+        "name": "Kidney Imaging-Spect",
+        "item-id": "78710",
+        "category": "400",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "689.85",
+                                "effective-date": "01/01/2001",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "LABEL- ROOM NUMBER": {
+        "name": "LABEL- ROOM NUMBER",
+        "item-id": "5013",
+        "category": null,
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "9.95",
+                                "effective-date": "07/20/2010",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "5.03",
+                                "effective-date": "07/28/2010",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "LABEL-ALLERGIC": {
+        "name": "LABEL-ALLERGIC",
+        "item-id": "5103",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "14.45",
+                                "effective-date": "07/20/2010",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "5.56",
+                                "effective-date": "07/28/2010",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 }
