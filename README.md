@@ -4,7 +4,8 @@
 - run ```npm i```;
 - copy data from `item list.pdf`
 - paste copied data into `temp.txt`
-- format data (use current `temp.txt` as example)
+- manually format data (use current `temp.txt` as example)
+- manually filter out any privat data!
 
 example `temp.txt` format:
 ```
