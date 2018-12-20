@@ -13303,5 +13303,1208 @@
                 ]
             }
         ]
+    },
+    "GLUCERNA SHAKES CHOC": {
+        "name": "GLUCERNA SHAKES CHOC",
+        "item-id": "R-L54544",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "1.53",
+                                "effective-date": "11/04/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "2.55",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "3.48",
+                                "effective-date": "05/08/2013",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "GLUCERNA SHAKES STRAW": {
+        "name": "GLUCERNA SHAKES STRAW",
+        "item-id": "R-L56052",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "1.53",
+                                "effective-date": "11/04/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "2.55",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "GLYCERIN SWABSTICKS": {
+        "name": "GLYCERIN SWABSTICKS",
+        "item-id": "MDS090600",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "0.20",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "GOWN, PATIENT ANGLE BACK-BLUE": {
+        "name": "GOWN, PATIENT ANGLE BACK-BLUE",
+        "item-id": "785",
+        "category": null,
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "27.36",
+                                "effective-date": "08/03/2010",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "GRADUATED CYLINDERS 32 OZ": {
+        "name": "GRADUATED CYLINDERS 32 OZ",
+        "item-id": "DYND 80416",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "69.41",
+                                "effective-date": "12/07/2010",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "1.75",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "GREEN STRIPE UNI FLAGS MED": {
+        "name": "GREEN STRIPE UNI FLAGS MED",
+        "item-id": "59700459",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "2.95",
+                                "effective-date": "09/08/2010",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "GROUP TX OT": {
+        "name": "GROUP TX OT",
+        "item-id": "97150OT",
+        "category": "430",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "45.90",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "GROUP TX PT": {
+        "name": "GROUP TX PT",
+        "item-id": "97150PT",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "45.90",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "GROUP TX ST": {
+        "name": "GROUP TX ST",
+        "item-id": "92508ST",
+        "category": "440",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "55.35",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Gentamicin Lvl": {
+        "name": "Gentamicin Lvl",
+        "item-id": "80170",
+        "category": "300",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "270.00",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Giardia Antigen": {
+        "name": "Giardia Antigen",
+        "item-id": "87329",
+        "category": "300",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "813.25",
+                                "effective-date": "01/07/2014",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Gyclosporin Level": {
+        "name": "Gyclosporin Level",
+        "item-id": "80158",
+        "category": "300",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "668.25",
+                                "effective-date": "04/01/2013",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "H PYLORI": {
+        "name": "H PYLORI",
+        "item-id": "86677",
+        "category": "300",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "192.50",
+                                "effective-date": "04/24/2014",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "H-BLOCK": {
+        "name": "H-BLOCK",
+        "item-id": "AL-64618",
+        "category": "990",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "1.95",
+                                "effective-date": "11/15/2010",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "H-BLOCK W/CUP": {
+        "name": "H-BLOCK W/CUP",
+        "item-id": "AL-64617",
+        "category": null,
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "1.95",
+                                "effective-date": "11/15/2010",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HAIR BRUSH": {
+        "name": "HAIR BRUSH",
+        "item-id": "MDS137015ZZ",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "4.60",
+                                "effective-date": "12/02/2010",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HAND SANITIZER 16OZ.": {
+        "name": "HAND SANITIZER 16OZ.",
+        "item-id": "MSC097032",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "17.80",
+                                "effective-date": "03/13/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HAND SPLINT POSITIONING": {
+        "name": "HAND SPLINT POSITIONING",
+        "item-id": "A311-RM",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "32.95",
+                                "effective-date": "01/06/2012",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "32.95",
+                                "effective-date": "01/06/2012",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HAPTOGLOBIN, RATE COUNT": {
+        "name": "HAPTOGLOBIN, RATE COUNT",
+        "item-id": "B-12",
+        "category": "83010",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "316.50",
+                                "effective-date": "05/19/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HEEL & ELBOW PROTECTORS- FUR": {
+        "name": "HEEL & ELBOW PROTECTORS- FUR",
+        "item-id": "MDT 823280C",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "19.53",
+                                "effective-date": "11/07/2012",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HEEL LIFT": {
+        "name": "HEEL LIFT",
+        "item-id": "081244177",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "24.72",
+                                "effective-date": "10/28/2013",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HEEL WEDGDE": {
+        "name": "HEEL WEDGDE",
+        "item-id": "56071601",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "19.41",
+                                "effective-date": "10/28/2013",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HEEL/ELBOW PROTECTOR KNIT": {
+        "name": "HEEL/ELBOW PROTECTOR KNIT",
+        "item-id": "MDT829298",
+        "category": "420",
+        "items": [
+            {
+                "type": "Blue Cross",
+                "subtypes": [
+                    {
+                        "name": "Blue Cross",
+                        "payor-id": "3001",
+                        "subitems": [
+                            {
+                                "price": "14.10",
+                                "effective-date": "01/01/2001",
+                                "name": "Blue Cross"
+                            },
+                            {
+                                "price": "14.10",
+                                "effective-date": "10/01/2009",
+                                "name": "Blue Cross"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicaid",
+                "subtypes": [
+                    {
+                        "name": "Medicaid",
+                        "payor-id": "3002",
+                        "subitems": [
+                            {
+                                "price": "14.10",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicaid"
+                            },
+                            {
+                                "price": "14.10",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicaid"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "14.10",
+                                "effective-date": "01/01/2001",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "12.65",
+                                "effective-date": "09/28/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "12.65",
+                                "effective-date": "10/01/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "17.65",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Veterans",
+                "subtypes": [
+                    {
+                        "name": "Veterans",
+                        "payor-id": "3006",
+                        "subitems": [
+                            {
+                                "price": "14.10",
+                                "effective-date": "01/01/2001",
+                                "name": "Veterans"
+                            },
+                            {
+                                "price": "14.10",
+                                "effective-date": "10/01/2009",
+                                "name": "Veterans"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicare",
+                "subtypes": [
+                    {
+                        "name": "Medicare A",
+                        "payor-id": "3003",
+                        "subitems": [
+                            {
+                                "price": "14.10",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicare A"
+                            },
+                            {
+                                "price": "14.10",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicare A"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Medicare B",
+                        "payor-id": "3004",
+                        "subitems": [
+                            {
+                                "price": "14.10",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicare B"
+                            },
+                            {
+                                "price": "14.10",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicare B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HEMI ARM BRACELEFT SM 10\"/12\"": {
+        "name": "HEMI ARM BRACELEFT SM 10\"/12\"",
+        "item-id": "5598-64-01",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "17.49",
+                                "effective-date": "07/21/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HEMI ARM SLING SM RIGHT": {
+        "name": "HEMI ARM SLING SM RIGHT",
+        "item-id": "5598-64-04",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "17.49",
+                                "effective-date": "07/21/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HEMI ARM SLING LEFT MED": {
+        "name": "HEMI ARM SLING LEFT MED",
+        "item-id": "5598-64-02",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "17.49",
+                                "effective-date": "07/21/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HEMI ARM SLING MED RIGHT": {
+        "name": "HEMI ARM SLING MED RIGHT",
+        "item-id": "5598-64-05",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "17.49",
+                                "effective-date": "07/21/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HEMI ARM SLING STRAP R M": {
+        "name": "HEMI ARM SLING STRAP R M",
+        "item-id": "55986411",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "155.75",
+                                "effective-date": "11/03/2010",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HEMI STRAPS LEFT MED": {
+        "name": "HEMI STRAPS LEFT MED",
+        "item-id": "5598-64-08",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "36.95",
+                                "effective-date": "07/21/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HEMI STRAPS RIGHT MED": {
+        "name": "HEMI STRAPS RIGHT MED",
+        "item-id": "5598-64-11",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "36.95",
+                                "effective-date": "07/21/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HEMI STRAPS RIGHT SM": {
+        "name": "HEMI STRAPS RIGHT SM",
+        "item-id": "5598-64-10",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "36.95",
+                                "effective-date": "07/21/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HEMI STRAPS-LEFT SM": {
+        "name": "HEMI STRAPS-LEFT SM",
+        "item-id": "5598-64-07",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "36.95",
+                                "effective-date": "07/21/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HEMODIALYSIS": {
+        "name": "HEMODIALYSIS",
+        "item-id": "30911",
+        "category": "801",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "843.65",
+                                "effective-date": "06/13/2011",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "862.90",
+                                "effective-date": "02/02/2017",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HEPARIN FLUSH": {
+        "name": "HEPARIN FLUSH",
+        "item-id": "7160",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "7.69",
+                                "effective-date": "10/26/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HEPATITIS B CORE": {
+        "name": "HEPATITIS B CORE",
+        "item-id": "86704",
+        "category": "300",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "64.55",
+                                "effective-date": "04/10/2014",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HEPATITIS C": {
+        "name": "HEPATITIS C",
+        "item-id": "86803",
+        "category": "300",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "157.85",
+                                "effective-date": "04/10/2014",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HEPATITIS PROFILE": {
+        "name": "HEPATITIS PROFILE",
+        "item-id": "86708",
+        "category": "300",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "214.25",
+                                "effective-date": "04/10/2014",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HERPES SIMPLEX VIRUS": {
+        "name": "HERPES SIMPLEX VIRUS",
+        "item-id": "87529",
+        "category": "300",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "315.00",
+                                "effective-date": "05/16/2013",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HIP KIT # A665-30-4": {
+        "name": "HIP KIT # A665-30-4",
+        "item-id": "754",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "20.26",
+                                "effective-date": "07/21/2010",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HIP UNILATERAL 1 VIEW": {
+        "name": "HIP UNILATERAL 1 VIEW",
+        "item-id": "73500",
+        "category": "400",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "71.55",
+                                "effective-date": "10/01/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HOLLISTER BELT": {
+        "name": "HOLLISTER BELT",
+        "item-id": "1281",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "46.10",
+                                "effective-date": "06/06/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HOLLISTER COL. BAGS": {
+        "name": "HOLLISTER COL. BAGS",
+        "item-id": "18374",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "625.00",
+                                "effective-date": "10/04/2012",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HOLLISTER DRAINABLE POUCH": {
+        "name": "HOLLISTER DRAINABLE POUCH",
+        "item-id": "3804",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "164.80",
+                                "effective-date": "05/16/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HOLLISTER FLANGE": {
+        "name": "HOLLISTER FLANGE",
+        "item-id": "14204 -",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "165.00",
+                                "effective-date": "11/02/2012",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HOLLISTER FLANGES": {
+        "name": "HOLLISTER FLANGES",
+        "item-id": "14204",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "165.00",
+                                "effective-date": "10/04/2012",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "HOLLISTER POUCH": {
+        "name": "HOLLISTER POUCH",
+        "item-id": "3804-",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "185.00",
+                                "effective-date": "11/02/2012",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 }
