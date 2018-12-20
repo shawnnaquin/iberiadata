@@ -9126,5 +9126,2871 @@
                 ]
             }
         ]
+    },
+    "EDEMA GLOVE-XS": {
+        "name": "EDEMA GLOVE-XS",
+        "item-id": "A571221",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "4.87",
+                                "effective-date": "11/03/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "24.35",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "EDEMA GLOVES-MED-RIGHT": {
+        "name": "EDEMA GLOVES-MED-RIGHT",
+        "item-id": "9293-28",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "10.95",
+                                "effective-date": "06/30/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "EKG 12 Lead W Interpre & Repo": {
+        "name": "EKG 12 Lead W Interpre & Repo",
+        "item-id": "93000",
+        "category": "300",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "75.60",
+                                "effective-date": "11/05/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "EKG PAPER (PHILIPS PAGEWRITER": {
+        "name": "EKG PAPER (PHILIPS PAGEWRITER",
+        "item-id": "PEGM3707A",
+        "category": null,
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "148.25",
+                                "effective-date": "06/01/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "EKG TAB": {
+        "name": "EKG TAB",
+        "item-id": "MDS616101AZ",
+        "category": null,
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "18.88",
+                                "effective-date": "12/29/2010",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ELASTIC BACK BRACE": {
+        "name": "ELASTIC BACK BRACE",
+        "item-id": "1342",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "167.90",
+                                "effective-date": "06/30/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ELBOW AIR SPLINT": {
+        "name": "ELBOW AIR SPLINT",
+        "item-id": "3821D",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "42.95",
+                                "effective-date": "06/15/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ELEC STEM ATTEN PT": {
+        "name": "ELEC STEM ATTEN PT",
+        "item-id": "97032PT",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "37.80",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ELEC STIM ATTEN OT": {
+        "name": "ELEC STIM ATTEN OT",
+        "item-id": "97032OT",
+        "category": "430",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "37.80",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ELEC STIM UNATT OT": {
+        "name": "ELEC STIM UNATT OT",
+        "item-id": "97014OT",
+        "category": "430",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "40.50",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ELEC STIM UNATT PT": {
+        "name": "ELEC STIM UNATT PT",
+        "item-id": "97014PT",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "40.50",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ELECT-TIMER-STOPWATCH": {
+        "name": "ELECT-TIMER-STOPWATCH",
+        "item-id": "7653",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "19.95",
+                                "effective-date": "01/06/2012",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ELECTRODE 2\" dia 5.08cm": {
+        "name": "ELECTRODE 2\" dia 5.08cm",
+        "item-id": "55196640",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "59.95",
+                                "effective-date": "09/21/2012",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ELECTRODE- 08\" ROUND MINI 2 MM": {
+        "name": "ELECTRODE- 08\" ROUND MINI 2 MM",
+        "item-id": "800MSC",
+        "category": "440",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "98.50",
+                                "effective-date": "06/19/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "EMERGENCY LIGHT BATTERY": {
+        "name": "EMERGENCY LIGHT BATTERY",
+        "item-id": "6V5A",
+        "category": null,
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "12.99",
+                                "effective-date": "12/10/2010",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "EMERY BOARDS": {
+        "name": "EMERY BOARDS",
+        "item-id": "NON801778",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "6.82",
+                                "effective-date": "06/05/2012",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "EMESIS BASIN": {
+        "name": "EMESIS BASIN",
+        "item-id": "729",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "0.00",
+                                "effective-date": "07/05/2010",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "EMESIS BASIN 1": {
+        "name": "EMESIS BASIN 1",
+        "item-id": "DYND80327",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "20.54",
+                                "effective-date": "07/07/2010",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "0.45",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "EMESIS BASIN 2": {
+        "name": "EMESIS BASIN 2",
+        "item-id": "729",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "0.45",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "2.25",
+                                "effective-date": "09/22/2014",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ENEMA,DISPOSABLE": {
+        "name": "ENEMA,DISPOSABLE",
+        "item-id": "CUR095005",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "3.80",
+                                "effective-date": "10/07/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "6.05",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ENLIVE APPLE": {
+        "name": "ENLIVE APPLE",
+        "item-id": "R-L54775",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "3.00",
+                                "effective-date": "11/11/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "5.00",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ENLIVE- WILD BERRY R-L": {
+        "name": "ENLIVE- WILD BERRY R-L",
+        "item-id": "56642",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "28.15",
+                                "effective-date": "06/23/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ENSURE CHOCOLATE": {
+        "name": "ENSURE CHOCOLATE",
+        "item-id": "R-L50462",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "0.75",
+                                "effective-date": "11/11/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "0.85",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "2.85",
+                                "effective-date": "05/08/2013",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ENSURE CLEAR": {
+        "name": "ENSURE CLEAR",
+        "item-id": "R-L56642",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "6.36",
+                                "effective-date": "10/20/2015",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ENSURE HIGH PROTEIN NUTRITIONA": {
+        "name": "ENSURE HIGH PROTEIN NUTRITIONA",
+        "item-id": "R-L64136",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "8.83",
+                                "effective-date": "09/14/2015",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ENSURE PLUS CHOCOLATE": {
+        "name": "ENSURE PLUS CHOCOLATE",
+        "item-id": "2758",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "7.60",
+                                "effective-date": "02/22/2015",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ENSURE PLUS STRAWBERRY": {
+        "name": "ENSURE PLUS STRAWBERRY",
+        "item-id": "2759",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "7.60",
+                                "effective-date": "02/22/2015",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ENSURE PLUS VANILLA": {
+        "name": "ENSURE PLUS VANILLA",
+        "item-id": "2757",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "7.60",
+                                "effective-date": "02/22/2015",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ENSURE PUDDING BUTTERSCOTCH": {
+        "name": "ENSURE PUDDING BUTTERSCOTCH",
+        "item-id": "R-L54848",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "1.60",
+                                "effective-date": "10/17/2015",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ENSURE PUDDING CHOC": {
+        "name": "ENSURE PUDDING CHOC",
+        "item-id": "R-L54846",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "1.00",
+                                "effective-date": "11/11/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "1.60",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ENSURE PUDDING VANILLA": {
+        "name": "ENSURE PUDDING VANILLA",
+        "item-id": "R-L54844",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "1.00",
+                                "effective-date": "11/11/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "1.60",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ENSURE STRAWBERRY": {
+        "name": "ENSURE STRAWBERRY",
+        "item-id": "R-L50648",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "0.75",
+                                "effective-date": "11/11/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "0.85",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ENSURE VANILLA": {
+        "name": "ENSURE VANILLA",
+        "item-id": "R-L50460",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "0.75",
+                                "effective-date": "11/11/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "0.85",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ESR Sedimentation Rate manual": {
+        "name": "ESR Sedimentation Rate manual",
+        "item-id": "85651",
+        "category": "300",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "85.50",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ESR Sedimentation Rate automat": {
+        "name": "ESR Sedimentation Rate automat",
+        "item-id": "85652",
+        "category": "300",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "85.50",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "EVAL FOR RX FOR SPEECH-GENER": {
+        "name": "EVAL FOR RX FOR SPEECH-GENER",
+        "item-id": "92607ST",
+        "category": "440",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "405.00",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "EVAL/RE-EVAL OF ORAL AND PHARY": {
+        "name": "EVAL/RE-EVAL OF ORAL AND PHARY",
+        "item-id": "92610ST",
+        "category": "440",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "405.00",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "EVALUATION/RE-EVAL ST": {
+        "name": "EVALUATION/RE-EVAL ST",
+        "item-id": "92506ST",
+        "category": "440",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "147.15",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "EVALUTATION PT": {
+        "name": "EVALUTATION PT",
+        "item-id": "97001PT",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "157.95",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "EXTENDABLE MOUNT BRACKET": {
+        "name": "EXTENDABLE MOUNT BRACKET",
+        "item-id": "0815-07-755",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "32.95",
+                                "effective-date": "10/29/2012",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "EXTRA LG PRAFO BOOT": {
+        "name": "EXTRA LG PRAFO BOOT",
+        "item-id": "2479",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "0.00",
+                                "effective-date": "04/20/2014",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "250.00",
+                                "effective-date": "04/23/2014",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "EYE PATCH-OVAL": {
+        "name": "EYE PATCH-OVAL",
+        "item-id": "APYF414505",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "40.14",
+                                "effective-date": "05/29/2012",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "EYE WASH STATION": {
+        "name": "EYE WASH STATION",
+        "item-id": "MPH17M10300",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "39.82",
+                                "effective-date": "11/12/2010",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Electrolyte Panel": {
+        "name": "Electrolyte Panel",
+        "item-id": "80051",
+        "category": "300",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "22.51",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Evaluation OT": {
+        "name": "Evaluation OT",
+        "item-id": "97003OT",
+        "category": "430",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "162.00",
+                                "effective-date": "10/15/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FACIAL TISSUE": {
+        "name": "FACIAL TISSUE",
+        "item-id": "NON 243277",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "29.51",
+                                "effective-date": "07/07/2010",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FAMILY TRAINING-30 MIN": {
+        "name": "FAMILY TRAINING-30 MIN",
+        "item-id": "98960PT",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "60.75",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FAMILY TRAINING-30 MIN 1": {
+        "name": "FAMILY TRAINING-30 MIN",
+        "item-id": "98960PT",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "60.75",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FAMILY TRAINING-30 MIN 2": {
+        "name": "FAMILY TRAINING-30 MIN 1",
+        "item-id": "98960ST",
+        "category": "440",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "60.75",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FEATHER REACHER LONG": {
+        "name": "FEATHER REACHER LONG",
+        "item-id": "A665-00-9",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "17.00",
+                                "effective-date": "06/07/2010",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FEATHER REACHER STANDARD": {
+        "name": "FEATHER REACHER STANDARD",
+        "item-id": "A665-00-8",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "16.00",
+                                "effective-date": "06/07/2010",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FEMUR XRAY": {
+        "name": "FEMUR XRAY",
+        "item-id": "3493",
+        "category": "400",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "325.00",
+                                "effective-date": "08/09/2016",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FIBERSOURCE HN 8 OZ (250ML)": {
+        "name": "FIBERSOURCE HN 8 OZ (250ML)",
+        "item-id": "DOY 185500",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "41.62",
+                                "effective-date": "05/23/2012",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FINE NEEDLE ASPIRATION": {
+        "name": "FINE NEEDLE ASPIRATION",
+        "item-id": "4575",
+        "category": "920",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "1200.00",
+                                "effective-date": "05/01/2018",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FINGERNAIL CLIP 4\"": {
+        "name": "FINGERNAIL CLIP 4\"",
+        "item-id": "MEC 37224",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "13.94",
+                                "effective-date": "06/05/2012",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FLANGE 2 3/4\"": {
+        "name": "FLANGE 2 3/4\"",
+        "item-id": "14804",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "43.52",
+                                "effective-date": "11/06/2012",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FLEX FIBEROPTIC ENDOSCOPE EVAL": {
+        "name": "FLEX FIBEROPTIC ENDOSCOPE EVAL",
+        "item-id": "92612ST",
+        "category": "440",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "540.00",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FLEX MASTER ACE WRAP": {
+        "name": "FLEX MASTER ACE WRAP",
+        "item-id": "3499",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "71.09",
+                                "effective-date": "08/11/2016",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FLEX-O-LACE (BROWN)": {
+        "name": "FLEX-O-LACE (BROWN)",
+        "item-id": "6068-09",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "11.99",
+                                "effective-date": "06/16/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FLEX-O-LACE (WHITE)": {
+        "name": "FLEX-O-LACE (WHITE)",
+        "item-id": "6068-01",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "11.99",
+                                "effective-date": "06/16/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FLEXIBLE SOCK AID": {
+        "name": "FLEXIBLE SOCK AID",
+        "item-id": "2087",
+        "category": "430",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "16.99",
+                                "effective-date": "07/26/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FLEXIBLE STOCKING AID": {
+        "name": "FLEXIBLE STOCKING AID",
+        "item-id": "# 2087",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "9.99",
+                                "effective-date": "06/11/2012",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FLEXIBLE STRAW 18'-10 pk": {
+        "name": "FLEXIBLE STRAW 18'-10 pk",
+        "item-id": "081003284",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "7.03",
+                                "effective-date": "02/29/2012",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FLEXIFLO QUANTUM-BAG & FLUSH ROSS": {
+        "name": "FLEXIFLO QUANTUM-BAG & FLUSH ROSS",
+        "item-id": "50606",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "10.97",
+                                "effective-date": "12/16/2010",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "65.85",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FLIP AWAY 1/2 LAP TRAY-LFT": {
+        "name": "FLIP AWAY 1/2 LAP TRAY-LFT",
+        "item-id": "5525-06",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "194.95",
+                                "effective-date": "08/16/2012",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FLIP AWAY LAP TRAY-RIGHT": {
+        "name": "FLIP AWAY LAP TRAY-RIGHT",
+        "item-id": "5525-05",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "194.95",
+                                "effective-date": "08/23/2012",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FOOT 2 Views": {
+        "name": "FOOT 2 Views",
+        "item-id": "73620",
+        "category": "400",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "71.55",
+                                "effective-date": "01/01/2001",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "225.00",
+                                "effective-date": "02/21/2014",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "325.00",
+                                "effective-date": "05/13/2014",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FOOT PLATES": {
+        "name": "FOOT PLATES",
+        "item-id": "5260.06",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "275.00",
+                                "effective-date": "06/07/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FOOT WRAP": {
+        "name": "FOOT WRAP",
+        "item-id": "VP250",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "187.50",
+                                "effective-date": "10/06/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FOREARM XRAY, 2 VIEWS": {
+        "name": "FOREARM XRAY, 2 VIEWS",
+        "item-id": "73090",
+        "category": "400",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "325.00",
+                                "effective-date": "09/01/2016",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FOURFLEX,FOUR-LAYER COMPRESSIO": {
+        "name": "FOURFLEX,FOUR-LAYER COMPRESSIO",
+        "item-id": "2488",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "18.27",
+                                "effective-date": "04/27/2014",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FREIGHT CHG.": {
+        "name": "FREIGHT CHG.",
+        "item-id": "12345",
+        "category": null,
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "34.41",
+                                "effective-date": "11/09/2010",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FRIEGHT CHARGES": {
+        "name": "FRIEGHT CHARGES",
+        "item-id": "803",
+        "category": null,
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "95.62",
+                                "effective-date": "08/16/2010",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FUNCT POS HAND POLYFR LEFT": {
+        "name": "FUNCT POS HAND POLYFR LEFT",
+        "item-id": "A311LM",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "23.32",
+                                "effective-date": "10/26/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "FUNCT POS HAND POLYFR RIGHT": {
+        "name": "FUNCT POS HAND POLYFR RIGHT",
+        "item-id": "A311RM",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "23.32",
+                                "effective-date": "10/26/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Ferritin": {
+        "name": "Ferritin",
+        "item-id": "82728",
+        "category": "300",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "188.25",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Fluid Exam Joint": {
+        "name": "Fluid Exam Joint",
+        "item-id": "89051",
+        "category": "300",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "42.00",
+                                "effective-date": "01/31/2013",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Folic Acid": {
+        "name": "Folic Acid",
+        "item-id": "82746",
+        "category": "300",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "278.25",
+                                "effective-date": "10/16/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "GAIT BELT EAS-CARE 60\"": {
+        "name": "GAIT BELT EAS-CARE 60\"",
+        "item-id": "0815-04-745",
+        "category": "420",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "30.95",
+                                "effective-date": "09/06/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "GASTRIC SUMP TUBE 16FR 48\"": {
+        "name": "GASTRIC SUMP TUBE 16FR 48\"",
+        "item-id": "DYND72016H",
+        "category": "270",
+        "items": [
+            {
+                "type": "Blue Cross",
+                "subtypes": [
+                    {
+                        "name": "Blue Cross",
+                        "payor-id": "3001",
+                        "subitems": [
+                            {
+                                "price": "10.72",
+                                "effective-date": "01/01/2001",
+                                "name": "Blue Cross"
+                            },
+                            {
+                                "price": "10.72",
+                                "effective-date": "10/01/2009",
+                                "name": "Blue Cross"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicaid",
+                "subtypes": [
+                    {
+                        "name": "Medicaid",
+                        "payor-id": "3002",
+                        "subitems": [
+                            {
+                                "price": "10.72",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicaid"
+                            },
+                            {
+                                "price": "10.72",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicaid"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "10.72",
+                                "effective-date": "01/01/2001",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "9.25",
+                                "effective-date": "09/28/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "9.25",
+                                "effective-date": "10/01/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "13.40",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Veterans",
+                "subtypes": [
+                    {
+                        "name": "Veterans",
+                        "payor-id": "3006",
+                        "subitems": [
+                            {
+                                "price": "10.72",
+                                "effective-date": "01/01/2001",
+                                "name": "Veterans"
+                            },
+                            {
+                                "price": "10.72",
+                                "effective-date": "10/01/2009",
+                                "name": "Veterans"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicare",
+                "subtypes": [
+                    {
+                        "name": "Medicare A",
+                        "payor-id": "3003",
+                        "subitems": [
+                            {
+                                "price": "10.72",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicare A"
+                            },
+                            {
+                                "price": "10.72",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicare A"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Medicare B",
+                        "payor-id": "3004",
+                        "subitems": [
+                            {
+                                "price": "10.72",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicare B"
+                            },
+                            {
+                                "price": "10.72",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicare B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "GAUZE 4 X 4 (TUB)": {
+        "name": "GAUZE 4 X 4 (TUB)",
+        "item-id": "NON 21430LF",
+        "category": "270",
+        "items": [
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "6.23",
+                                "effective-date": "07/16/2010",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "62.38",
+                                "effective-date": "08/30/2010",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "GAUZE BORDER 4\" X 5\" (2\" X 2.5": {
+        "name": "GAUZE BORDER 4\" X 5\" (2\" X 2.5",
+        "item-id": "MSC3245Z",
+        "category": "270",
+        "items": [
+            {
+                "type": "Blue Cross",
+                "subtypes": [
+                    {
+                        "name": "Blue Cross",
+                        "payor-id": "3001",
+                        "subitems": [
+                            {
+                                "price": "2.99",
+                                "effective-date": "01/01/2001",
+                                "name": "Blue Cross"
+                            },
+                            {
+                                "price": "2.99",
+                                "effective-date": "10/01/2009",
+                                "name": "Blue Cross"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicaid",
+                "subtypes": [
+                    {
+                        "name": "Medicaid",
+                        "payor-id": "3002",
+                        "subitems": [
+                            {
+                                "price": "2.99",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicaid"
+                            },
+                            {
+                                "price": "2.99",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicaid"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "2.99",
+                                "effective-date": "01/01/2001",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "3.69",
+                                "effective-date": "09/28/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "3.69",
+                                "effective-date": "10/01/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "3.75",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Veterans",
+                "subtypes": [
+                    {
+                        "name": "Veterans",
+                        "payor-id": "3006",
+                        "subitems": [
+                            {
+                                "price": "2.99",
+                                "effective-date": "01/01/2001",
+                                "name": "Veterans"
+                            },
+                            {
+                                "price": "2.99",
+                                "effective-date": "10/01/2009",
+                                "name": "Veterans"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicare",
+                "subtypes": [
+                    {
+                        "name": "Medicare A",
+                        "payor-id": "3003",
+                        "subitems": [
+                            {
+                                "price": "2.99",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicare A"
+                            },
+                            {
+                                "price": "2.99",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicare A"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Medicare B",
+                        "payor-id": "3004",
+                        "subitems": [
+                            {
+                                "price": "2.99",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicare B"
+                            },
+                            {
+                                "price": "2.99",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicare B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "GAUZE BORDER 4\" X 8\" (2\" X 6\"": {
+        "name": "GAUZE BORDER 4\" X 8\" (2\" X 6\"",
+        "item-id": "MSC3248Z",
+        "category": "270",
+        "items": [
+            {
+                "type": "Blue Cross",
+                "subtypes": [
+                    {
+                        "name": "Blue Cross",
+                        "payor-id": "3001",
+                        "subitems": [
+                            {
+                                "price": "5.24",
+                                "effective-date": "01/01/2001",
+                                "name": "Blue Cross"
+                            },
+                            {
+                                "price": "5.24",
+                                "effective-date": "10/01/2009",
+                                "name": "Blue Cross"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicaid",
+                "subtypes": [
+                    {
+                        "name": "Medicaid",
+                        "payor-id": "3002",
+                        "subitems": [
+                            {
+                                "price": "5.24",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicaid"
+                            },
+                            {
+                                "price": "5.24",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicaid"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "5.24",
+                                "effective-date": "01/01/2001",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "7.28",
+                                "effective-date": "09/28/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "7.28",
+                                "effective-date": "10/01/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Veterans",
+                "subtypes": [
+                    {
+                        "name": "Veterans",
+                        "payor-id": "3006",
+                        "subitems": [
+                            {
+                                "price": "5.24",
+                                "effective-date": "01/01/2001",
+                                "name": "Veterans"
+                            },
+                            {
+                                "price": "5.24",
+                                "effective-date": "10/01/2009",
+                                "name": "Veterans"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicare",
+                "subtypes": [
+                    {
+                        "name": "Medicare A",
+                        "payor-id": "3003",
+                        "subitems": [
+                            {
+                                "price": "5.24",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicare A"
+                            },
+                            {
+                                "price": "5.24",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicare A"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Medicare B",
+                        "payor-id": "3004",
+                        "subitems": [
+                            {
+                                "price": "5.24",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicare B"
+                            },
+                            {
+                                "price": "5.24",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicare B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "GAUZE BORDERED,4X4(2.5X2.5 PAD": {
+        "name": "GAUZE BORDERED,4X4(2.5X2.5 PAD",
+        "item-id": "MSC3244Z",
+        "category": "270",
+        "items": [
+            {
+                "type": "Blue Cross",
+                "subtypes": [
+                    {
+                        "name": "Blue Cross",
+                        "payor-id": "3001",
+                        "subitems": [
+                            {
+                                "price": "3.06",
+                                "effective-date": "01/01/2001",
+                                "name": "Blue Cross"
+                            },
+                            {
+                                "price": "3.07",
+                                "effective-date": "10/01/2009",
+                                "name": "Blue Cross"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicaid",
+                "subtypes": [
+                    {
+                        "name": "Medicaid",
+                        "payor-id": "3002",
+                        "subitems": [
+                            {
+                                "price": "3.06",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicaid"
+                            },
+                            {
+                                "price": "3.07",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicaid"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "3.06",
+                                "effective-date": "01/01/2001",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "8.39",
+                                "effective-date": "09/28/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "8.39",
+                                "effective-date": "10/01/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Veterans",
+                "subtypes": [
+                    {
+                        "name": "Veterans",
+                        "payor-id": "3006",
+                        "subitems": [
+                            {
+                                "price": "3.06",
+                                "effective-date": "01/01/2001",
+                                "name": "Veterans"
+                            },
+                            {
+                                "price": "3.07",
+                                "effective-date": "10/01/2009",
+                                "name": "Veterans"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicare",
+                "subtypes": [
+                    {
+                        "name": "Medicare A",
+                        "payor-id": "3003",
+                        "subitems": [
+                            {
+                                "price": "3.06",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicare A"
+                            },
+                            {
+                                "price": "3.07",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicare A"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Medicare B",
+                        "payor-id": "3004",
+                        "subitems": [
+                            {
+                                "price": "3.06",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicare B"
+                            },
+                            {
+                                "price": "3.07",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicare B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "GAUZE IMPREGNATED 3X8 OIL EMUL": {
+        "name": "GAUZE IMPREGNATED 3X8 OIL EMUL",
+        "item-id": "NON250381",
+        "category": "270",
+        "items": [
+            {
+                "type": "Blue Cross",
+                "subtypes": [
+                    {
+                        "name": "Blue Cross",
+                        "payor-id": "3001",
+                        "subitems": [
+                            {
+                                "price": "4.23",
+                                "effective-date": "01/01/2001",
+                                "name": "Blue Cross"
+                            },
+                            {
+                                "price": "4.24",
+                                "effective-date": "10/01/2009",
+                                "name": "Blue Cross"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicaid",
+                "subtypes": [
+                    {
+                        "name": "Medicaid",
+                        "payor-id": "3002",
+                        "subitems": [
+                            {
+                                "price": "4.23",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicaid"
+                            },
+                            {
+                                "price": "4.24",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicaid"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "4.23",
+                                "effective-date": "01/01/2001",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "6.36",
+                                "effective-date": "09/28/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "6.36",
+                                "effective-date": "10/01/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Veterans",
+                "subtypes": [
+                    {
+                        "name": "Veterans",
+                        "payor-id": "3006",
+                        "subitems": [
+                            {
+                                "price": "4.23",
+                                "effective-date": "01/01/2001",
+                                "name": "Veterans"
+                            },
+                            {
+                                "price": "4.24",
+                                "effective-date": "10/01/2009",
+                                "name": "Veterans"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicare",
+                "subtypes": [
+                    {
+                        "name": "Medicare A",
+                        "payor-id": "3003",
+                        "subitems": [
+                            {
+                                "price": "4.23",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicare A"
+                            },
+                            {
+                                "price": "4.24",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicare A"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Medicare B",
+                        "payor-id": "3004",
+                        "subitems": [
+                            {
+                                "price": "4.23",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicare B"
+                            },
+                            {
+                                "price": "4.24",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicare B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "GAUZE SPNG (TUB)4\"X4\",12-PLY S": {
+        "name": "GAUZE SPNG (TUB)4\"X4\",12-PLY S",
+        "item-id": "NON21426",
+        "category": "270",
+        "items": [
+            {
+                "type": "Blue Cross",
+                "subtypes": [
+                    {
+                        "name": "Blue Cross",
+                        "payor-id": "3001",
+                        "subitems": [
+                            {
+                                "price": "1.78",
+                                "effective-date": "01/01/2001",
+                                "name": "Blue Cross"
+                            },
+                            {
+                                "price": "1.78",
+                                "effective-date": "10/01/2009",
+                                "name": "Blue Cross"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicaid",
+                "subtypes": [
+                    {
+                        "name": "Medicaid",
+                        "payor-id": "3002",
+                        "subitems": [
+                            {
+                                "price": "1.78",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicaid"
+                            },
+                            {
+                                "price": "1.78",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicaid"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "1.78",
+                                "effective-date": "01/01/2001",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "1.62",
+                                "effective-date": "09/28/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "1.62",
+                                "effective-date": "10/01/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "2.25",
+                                "effective-date": "03/24/2011",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Veterans",
+                "subtypes": [
+                    {
+                        "name": "Veterans",
+                        "payor-id": "3006",
+                        "subitems": [
+                            {
+                                "price": "1.78",
+                                "effective-date": "01/01/2001",
+                                "name": "Veterans"
+                            },
+                            {
+                                "price": "1.78",
+                                "effective-date": "10/01/2009",
+                                "name": "Veterans"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicare",
+                "subtypes": [
+                    {
+                        "name": "Medicare A",
+                        "payor-id": "3003",
+                        "subitems": [
+                            {
+                                "price": "1.78",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicare A"
+                            },
+                            {
+                                "price": "1.78",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicare A"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Medicare B",
+                        "payor-id": "3004",
+                        "subitems": [
+                            {
+                                "price": "1.78",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicare B"
+                            },
+                            {
+                                "price": "1.78",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicare B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "GAUZE SPNG 4X4 DRAIN N/WVN ST": {
+        "name": "GAUZE SPNG 4X4 DRAIN N/WVN ST",
+        "item-id": "NON256000H",
+        "category": "270",
+        "items": [
+            {
+                "type": "Blue Cross",
+                "subtypes": [
+                    {
+                        "name": "Blue Cross",
+                        "payor-id": "3001",
+                        "subitems": [
+                            {
+                                "price": "0.27",
+                                "effective-date": "01/01/2001",
+                                "name": "Blue Cross"
+                            },
+                            {
+                                "price": "0.28",
+                                "effective-date": "10/01/2009",
+                                "name": "Blue Cross"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicaid",
+                "subtypes": [
+                    {
+                        "name": "Medicaid",
+                        "payor-id": "3002",
+                        "subitems": [
+                            {
+                                "price": "0.27",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicaid"
+                            },
+                            {
+                                "price": "0.28",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicaid"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Private",
+                "subtypes": [
+                    {
+                        "name": "Private",
+                        "payor-id": "3005",
+                        "subitems": [
+                            {
+                                "price": "0.27",
+                                "effective-date": "01/01/2001",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "0.89",
+                                "effective-date": "09/28/2009",
+                                "name": "Private"
+                            },
+                            {
+                                "price": "0.89",
+                                "effective-date": "10/01/2009",
+                                "name": "Private"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Veterans",
+                "subtypes": [
+                    {
+                        "name": "Veterans",
+                        "payor-id": "3006",
+                        "subitems": [
+                            {
+                                "price": "0.27",
+                                "effective-date": "01/01/2001",
+                                "name": "Veterans"
+                            },
+                            {
+                                "price": "0.28",
+                                "effective-date": "10/01/2009",
+                                "name": "Veterans"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Medicare",
+                "subtypes": [
+                    {
+                        "name": "Medicare A",
+                        "payor-id": "3003",
+                        "subitems": [
+                            {
+                                "price": "0.27",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicare A"
+                            },
+                            {
+                                "price": "0.28",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicare A"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Medicare B",
+                        "payor-id": "3004",
+                        "subitems": [
+                            {
+                                "price": "0.27",
+                                "effective-date": "01/01/2001",
+                                "name": "Medicare B"
+                            },
+                            {
+                                "price": "0.28",
+                                "effective-date": "10/01/2009",
+                                "name": "Medicare B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 }
