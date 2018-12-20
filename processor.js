@@ -43,6 +43,7 @@ readModuleFile('./temp.txt', function (err, words) {
 
     data.forEach( (d)=> {
         if ( tt.includes( d[0].trim() ) ) {
+            console.log( 'in temp: '+key );
             throw new Error('Duplicate');
         }
         tt.push( d[0].trim() );
@@ -52,6 +53,7 @@ readModuleFile('./temp.txt', function (err, words) {
 
         Object.keys( allItems ).forEach( (key)=> {
             if (  key == item[0] ) {
+                console.log('in save.json: ' + key );
                 throw new Error('Duplicate');
             }
         });
@@ -73,7 +75,6 @@ readModuleFile('./temp.txt', function (err, words) {
         };
 
         item.forEach( (line, linenumber ) => {
-
             if( linenumber > 2 && line !== null ) {
                 var name = line.split(' ').splice(0, 2).join(' ').replace(/\d+/g,'').replace(/\s*$/,'');
                 var shortname = name == 'Blue Cross' ? 'Blue Cross' : name.split(' ')[0];
