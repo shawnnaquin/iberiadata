@@ -57,7 +57,31 @@ npm run go
 { name: 'IVC FILTER INSERTION', price: 13542 }
 ```
 
-# NOTE 
+# NOTES
+
+### Main Object Prototype `save.json`
+
+```
+(Object)
+	name (Object) (String)
+		name (String)
+		item-id (String)
+		category (String)
+		items (Array)
+			(Object)
+				type (String)
+				subtypes (Array)
+					(Object)
+						name (String)
+						payor-id (String)
+						subitems (Array)
+							(Object)
+								name (String)
+								effective-date (String)
+								price (String)
+```
+
+### Other Notes
 the resulting `save.json` object keys are string escaped for valid JSON, they won't match the pdf in some cases, for instance:
 
 ```
